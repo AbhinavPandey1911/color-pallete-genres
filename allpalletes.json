@@ -1,294 +1,1059 @@
 {
   "palettes": [
     {
-      "id": "neonNights",
-      "name": "Neon Nights",
-      "description": "Electric, vibrant colors that evoke late-night cityscapes illuminated by neon signs and digital displays.",
+      "id": "verdantGreens",
+      "name": "Verdant Greens",
+      "description": "A celebration of the many shades of green found in leafy vegetables and garden herbs, conveying freshness and vitality.",
       "colors": [
         {
-          "hex": "#FF00FF",
-          "rgb": "255, 0, 255",
-          "name": "Electric Magenta",
-          "meaning": "Energy, excitement, digital culture"
+          "hex": "#205E30",
+          "rgb": "32, 94, 48",
+          "name": "Kale Depth",
+          "meaning": "Nourishment, resilience, life force"
         },
         {
-          "hex": "#00FFFF",
-          "rgb": "0, 255, 255",
-          "name": "Cyber Cyan",
-          "meaning": "Technology, futurism, digital interfaces"
+          "hex": "#73A353",
+          "rgb": "115, 163, 83",
+          "name": "Spring Spinach",
+          "meaning": "Renewal, freshness, health"
         },
         {
-          "hex": "#111122",
-          "rgb": "17, 17, 34",
-          "name": "Night Core",
-          "meaning": "Urban darkness, mystery, depth"
+          "hex": "#C0E392",
+          "rgb": "192, 227, 146",
+          "name": "Baby Lettuce",
+          "meaning": "New beginnings, tenderness, digestive health"
         }
       ],
-      "mood": "Energetic, futuristic, nocturnal",
-      "bestApplications": ["Digital interfaces", "Nightlife promotions", "Music visuals", "Gaming environments"],
-      "complementaryTextures": ["Reflective surfaces", "Rain-slicked streets", "Holographic elements"],
-      "associatedGenreIds": ["cyberpunk", "vaporwave"]
+      "mood": "Revitalizing, nurturing, harmonious",
+      "bestApplications": ["Plant-based food brands", "Vegan restaurants", "Health coaching", "Garden educators"],
+      "complementaryTextures": ["Leaf veins", "Dewy surfaces", "Chopped herb scatters"],
+      "associatedGenreIds": ["botanicalModern", "wildForager", "rawVegan"],
+      "associatedEmotions": {
+        "feelings": ["Vitality", "Restoration", "Awakening", "Connection to earth"],
+        "origin": "Derived from our ancestral relationship with edible green plants, which historically signaled safety, nourishment, and survival. The emotional response to these greens is rooted in our evolutionary biology, triggering positive associations with foraging success and nutritional security."
+      }
     },
     {
-      "id": "forestDepths",
-      "name": "Forest Depths",
-      "description": "Rich, earthy tones that capture the mysterious atmosphere of dense woodland environments and natural ecosystems.",
+      "id": "rootHarvest",
+      "name": "Root Harvest",
+      "description": "Earthy tones inspired by root vegetables and tubers, grounding designs in natural abundance from below the soil.",
       "colors": [
         {
-          "hex": "#2D4F16",
-          "rgb": "45, 79, 22",
-          "name": "Canopy Green",
-          "meaning": "Growth, shelter, nature's wisdom"
+          "hex": "#9A3324",
+          "rgb": "154, 51, 36",
+          "name": "Roasted Beet",
+          "meaning": "Passion, strength, rootedness"
         },
         {
-          "hex": "#7A542E",
-          "rgb": "122, 84, 46",
-          "name": "Bark Brown",
-          "meaning": "Stability, foundation, organic structure"
+          "hex": "#E49E56",
+          "rgb": "228, 158, 86",
+          "name": "Sweet Potato",
+          "meaning": "Warmth, sustenance, comfort"
         },
         {
-          "hex": "#ACBD78",
-          "rgb": "172, 189, 120",
-          "name": "Dappled Light",
-          "meaning": "Hope, illumination, natural revelation"
+          "hex": "#F9E8C7",
+          "rgb": "249, 232, 199",
+          "name": "Parsnip Cream",
+          "meaning": "Simplicity, nutrition, humble strength"
         }
       ],
-      "mood": "Contemplative, grounded, serene",
-      "bestApplications": ["Environmental branding", "Natural products", "Wellness spaces", "Outdoor activities"],
-      "complementaryTextures": ["Rough wood grain", "Moss patterns", "Leaf textures"],
-      "associatedGenreIds": ["organic", "fantasyWorld"]
+      "mood": "Grounding, nurturing, substantial",
+      "bestApplications": ["Seasonal food brands", "Farmers markets", "Traditional cooking", "Cold weather campaigns"],
+      "complementaryTextures": ["Earth patterns", "Cross-section details", "Grainy textures"],
+      "associatedGenreIds": ["vintageFarmstead", "earthMinimalist", "wildForager"],
+      "associatedEmotions": {
+        "feelings": ["Groundedness", "Sustenance", "Heritage", "Primordial connection"],
+        "origin": "Originates from our deep historical relationship with tubers and root vegetables that sustained human populations through harsh seasons. The emotional response reflects agricultural turning points in human civilization and collective memories of harvest-time security."
+      }
     },
     {
-      "id": "goldenEra",
-      "name": "Golden Era",
-      "description": "Luxurious palette inspired by the glamour of the Art Deco period, featuring rich jewel tones and metallic accents.",
+      "id": "berryBounty",
+      "name": "Berry Bounty",
+      "description": "Rich, vibrant colors inspired by antioxidant-rich berries, conveying intense flavor, nutritional density and natural sweetness.",
       "colors": [
         {
-          "hex": "#C9A16E",
-          "rgb": "201, 161, 110",
-          "name": "Antique Gold",
-          "meaning": "Luxury, achievement, timeless value"
+          "hex": "#3F1651",
+          "rgb": "63, 22, 81",
+          "name": "Elder Berry",
+          "meaning": "Wisdom, protection, healing traditions"
         },
         {
-          "hex": "#0E2C40",
-          "rgb": "14, 44, 64",
-          "name": "Midnight Blue",
-          "meaning": "Depth, sophistication, stability"
+          "hex": "#B72555",
+          "rgb": "183, 37, 85",
+          "name": "Raspberry Blush",
+          "meaning": "Vibrancy, feminine energy, heart health"
         },
         {
-          "hex": "#AA0A18",
-          "rgb": "170, 10, 24",
-          "name": "Deco Ruby",
-          "meaning": "Passion, power, prestige"
+          "hex": "#D978A1",
+          "rgb": "217, 120, 161",
+          "name": "Wild Strawberry",
+          "meaning": "Sweetness, desire, natural indulgence"
         }
       ],
-      "mood": "Sophisticated, luxurious, confident",
-      "bestApplications": ["Luxury branding", "High-end packaging", "Event invitations", "Hotel design"],
-      "complementaryTextures": ["Polished marble", "Etched glass", "Metallic inlays"],
-      "associatedGenreIds": ["artDeco", "retro"]
+      "mood": "Vibrant, sensual, celebratory",
+      "bestApplications": ["Fruit-based products", "Natural desserts", "Summer campaigns", "Juice bars"],
+      "complementaryTextures": ["Seed patterns", "Juicy droplets", "Smooth gloss"],
+      "associatedGenreIds": ["rawVegan", "wildForager", "botanicalModern"],
+      "associatedEmotions": {
+        "feelings": ["Pleasure", "Vitality", "Nurturance", "Seasonal joy"],
+        "origin": "Stems from our evolutionary reward system for finding rare, nutrient-dense sweet foods in nature. The strong colors of berries trigger primal pleasure responses that encouraged our ancestors to seek these precious, medicinal foods."
+      }
     },
     {
-      "id": "digitalSunset",
-      "name": "Digital Sunset",
-      "description": "Dreamy gradient-inspired palette combining soft pinks and purples with digital blue, evoking both nostalgia and futurism.",
+      "id": "grainGold",
+      "name": "Grain Gold",
+      "description": "Warm, golden tones inspired by ancient grains and seed harvests, connecting to agricultural traditions and whole food staples.",
       "colors": [
         {
-          "hex": "#FF6AC1",
-          "rgb": "255, 106, 193",
-          "name": "Pixel Pink",
-          "meaning": "Digital nostalgia, synthetic emotion, virtual environments"
+          "hex": "#B68D28",
+          "rgb": "182, 141, 40",
+          "name": "Wheat Sheaf",
+          "meaning": "Abundance, tradition, staple nourishment"
         },
         {
-          "hex": "#7D67F0",
-          "rgb": "125, 103, 240",
-          "name": "Retrowave Purple",
-          "meaning": "Creativity, mystery, digital twilight"
+          "hex": "#DABC80",
+          "rgb": "218, 188, 128",
+          "name": "Quinoa Husk",
+          "meaning": "Ancient wisdom, complete nutrition, sustainability"
         },
         {
-          "hex": "#2DEBFF",
-          "rgb": "45, 235, 255",
-          "name": "Virtual Blue",
-          "meaning": "Digital space, artificial reality, technological optimism"
+          "hex": "#F5E9C9",
+          "rgb": "245, 233, 201",
+          "name": "Millet Light",
+          "meaning": "Simplicity, digestive health, gentle energy"
         }
       ],
-      "mood": "Nostalgic, dreamy, surreal",
-      "bestApplications": ["Digital art", "Music visuals", "Internet culture", "Technology retrospectives"],
-      "complementaryTextures": ["Glitch effects", "Scan lines", "Gradient meshes"],
-      "associatedGenreIds": ["vaporwave", "cyberpunk", "retro"]
+      "mood": "Warm, traditional, wholesome",
+      "bestApplications": ["Bakeries", "Traditional food brands", "Whole food products", "Harvest festivals"],
+      "complementaryTextures": ["Grain patterns", "Woven textures", "Seed clusters"],
+      "associatedGenreIds": ["vintageFarmstead", "earthMinimalist", "permaculturePattern"],
+      "associatedEmotions": {
+        "feelings": ["Security", "Heritage", "Fullness", "Cultural continuity"],
+        "origin": "Rooted in humanity's 10,000+ year relationship with cereal grains that enabled civilization itself. These colors evoke collective ancestral memories of harvest cycles, agricultural bounty, and the emotional security of stored food."
+      }
     },
     {
-      "id": "monochrome",
-      "name": "Monochrome",
-      "description": "Sophisticated grayscale palette focused on contrast and clarity, perfect for minimalist designs requiring focus and readability.",
+      "id": "legumeLuxe",
+      "name": "Legume Luxe",
+      "description": "Rich, earthy palette inspired by protein-packed beans, peas, and lentils, celebrating plant-based protein sources.",
       "colors": [
         {
-          "hex": "#FFFFFF",
-          "rgb": "255, 255, 255",
-          "name": "Pure White",
-          "meaning": "Clarity, simplicity, empty canvas"
+          "hex": "#503335",
+          "rgb": "80, 51, 53",
+          "name": "Adzuki Bean",
+          "meaning": "Grounding, protein strength, traditional wisdom"
         },
         {
-          "hex": "#888888",
-          "rgb": "136, 136, 136",
-          "name": "Medium Gray",
-          "meaning": "Balance, neutrality, subtlety"
+          "hex": "#C97C5D",
+          "rgb": "201, 124, 93",
+          "name": "Red Lentil",
+          "meaning": "Hearty nourishment, versatility, everyday sustenance"
         },
         {
-          "hex": "#000000",
-          "rgb": "0, 0, 0",
-          "name": "True Black",
-          "meaning": "Power, sophistication, definitiveness"
+          "hex": "#ECE5CE",
+          "rgb": "236, 229, 206",
+          "name": "Chickpea Cream",
+          "meaning": "Versatility, reliable nutrition, culinary foundation"
         }
       ],
-      "mood": "Clear, focused, sophisticated",
-      "bestApplications": ["Typography-focused design", "Photography portfolios", "Minimalist interfaces", "Luxury branding"],
-      "complementaryTextures": ["Paper textures", "Subtle grain", "Matte finishes"],
-      "associatedGenreIds": ["minimalist", "brutalist", "nordic"]
+      "mood": "Substantial, earthy, nourishing",
+      "bestApplications": ["Plant protein brands", "Traditional cuisines", "Dietary transitions", "Nutrition education"],
+      "complementaryTextures": ["Smooth matte surfaces", "Varied bean patterns", "Subtle speckles"],
+      "associatedGenreIds": ["vintageFarmstead", "earthMinimalist", "herbGarden"],
+      "associatedEmotions": {
+        "feelings": ["Satisfaction", "Sufficiency", "Cultural connection", "Stability"],
+        "origin": "Derives from our evolutionary adaptation to cooked legumes as a protein source, allowing human civilization to thrive with less reliance on hunting. These colors tap into collective memories of communal cooking traditions and the security of stored food."
+      }
     },
     {
-      "id": "enchantedForest",
-      "name": "Enchanted Forest",
-      "description": "Magical palette combining deep mystical purples with vibrant greens and gold accents, evoking fantasy worlds and enchanted environments.",
+      "id": "herbGarden",
+      "name": "Herb Garden",
+      "description": "Fresh, aromatic palette inspired by culinary herbs, evoking the sensory pleasure of garden-to-table cooking.",
       "colors": [
         {
-          "hex": "#3A015C",
-          "rgb": "58, 1, 92",
-          "name": "Mystic Purple",
-          "meaning": "Magic, mystery, the unknown"
+          "hex": "#5A7247",
+          "rgb": "90, 114, 71",
+          "name": "Garden Sage",
+          "meaning": "Wisdom, healing tradition, digestive harmony"
         },
         {
-          "hex": "#118C4F",
-          "rgb": "17, 140, 79",
-          "name": "Enchanted Emerald",
-          "meaning": "Growth, life force, magical nature"
+          "hex": "#BED38E",
+          "rgb": "190, 211, 142",
+          "name": "Basil Leaf",
+          "meaning": "Fresh perspective, mental clarity, sensory delight"
         },
         {
-          "hex": "#FFCA3A",
-          "rgb": "255, 202, 58",
-          "name": "Faerie Light",
-          "meaning": "Illumination, wonder, magical energy"
+          "hex": "#F9F5EB",
+          "rgb": "249, 245, 235",
+          "name": "Herb Blossom",
+          "meaning": "Subtle enhancement, refinement, culinary elevation"
         }
       ],
-      "mood": "Mysterious, magical, wondrous",
-      "bestApplications": ["Fantasy illustrations", "Game environments", "Children's media", "Immersive experiences"],
-      "complementaryTextures": ["Organic patterns", "Glowing elements", "Mist effects"],
-      "associatedGenreIds": ["fantasyWorld", "organic"]
+      "mood": "Fresh, aromatic, sensorial",
+      "bestApplications": ["Culinary products", "Recipe content", "Plant-based restaurants", "Kitchen design"],
+      "complementaryTextures": ["Herb sprig patterns", "Line art botanicals", "Textured leaf prints"],
+      "associatedGenreIds": ["herbGarden", "botanicalModern", "rawVegan"],
+      "associatedEmotions": {
+        "feelings": ["Sensory pleasure", "Domestic heritage", "Healing confidence", "Creative expression"],
+        "origin": "Stems from our co-evolutionary relationship with aromatic herbs, which humans have cultivated for both medicine and flavor enhancement for millennia. The emotional associations reflect both the herbal healing traditions and the cultural memory of culinary artistry."
+      }
     },
     {
-      "id": "vintageVibes",
-      "name": "Vintage Vibes",
-      "description": "Warm, faded palette inspired by old photographs and printed materials from the 1970s, creating a sense of nostalgia and comfort.",
+      "id": "seedCelebration",
+      "name": "Seed Celebration",
+      "description": "Rich, varied palette inspired by nutrient-dense seeds, highlighting the natural patterns and textures of these small nutritional powerhouses.",
       "colors": [
         {
-          "hex": "#E5CAA0",
-          "rgb": "229, 202, 160",
-          "name": "Faded Parchment",
-          "meaning": "History, aged wisdom, timelessness"
+          "hex": "#3E3B32",
+          "rgb": "62, 59, 50",
+          "name": "Black Sesame",
+          "meaning": "Ancient wisdom, mineralization, subtle strength"
         },
         {
-          "hex": "#D76262",
-          "rgb": "215, 98, 98",
-          "name": "Retro Red",
-          "meaning": "Passion, lived experience, emotional memory"
+          "hex": "#AA6A39",
+          "rgb": "170, 106, 57",
+          "name": "Flaxseed Amber",
+          "meaning": "Essential nutrition, omega richness, historical continuity"
         },
         {
-          "hex": "#6E7B52",
-          "rgb": "110, 123, 82",
-          "name": "Aged Olive",
-          "meaning": "Endurance, heritage, natural evolution"
+          "hex": "#F2EEE3",
+          "rgb": "242, 238, 227",
+          "name": "Poppy Seed White",
+          "meaning": "Delicate power, unexpected nourishment, subtle beauty"
         }
       ],
-      "mood": "Nostalgic, comfortable, warm",
-      "bestApplications": ["Heritage brands", "Historical content", "Nostalgic marketing", "Memorabilia"],
-      "complementaryTextures": ["Worn paper", "Film grain", "Weathered surfaces"],
-      "associatedGenreIds": ["retro", "organic"]
+      "mood": "Nutritionally rich, concentrated, essential",
+      "bestApplications": ["Holistic nutrition", "Superfood products", "Plant-based protein", "Natural supplementation"],
+      "complementaryTextures": ["Seed patterns", "Tiny repeating elements", "Textural contrasts"],
+      "associatedGenreIds": ["wildForager", "permaculturePattern", "earthMinimalist"],
+      "associatedEmotions": {
+        "feelings": ["Potential", "Concentration", "Life cycles", "Natural intelligence"],
+        "origin": "Derives from human relationship to seeds both as food and as symbols of regeneration and potential. The emotional response connects to our innate understanding of seeds as both nourishment and repositories of future abundance."
+      }
     },
     {
-      "id": "oceanBreeze",
-      "name": "Ocean Breeze",
-      "description": "Refreshing coastal palette featuring various shades of blue and aqua, evoking seaside environments and maritime themes.",
+      "id": "mushroomForest",
+      "name": "Mushroom Forest",
+      "description": "Earthy, mysterious palette inspired by forest fungi, exploring the complex world of mushrooms and their ecological importance.",
       "colors": [
         {
-          "hex": "#003B5C",
-          "rgb": "0, 59, 92",
-          "name": "Deep Ocean",
-          "meaning": "Depth, wisdom, mystery"
+          "hex": "#513B41",
+          "rgb": "81, 59, 65",
+          "name": "Portobello Cap",
+          "meaning": "Earthiness, mystery, umami essence"
         },
         {
-          "hex": "#5ABFDD",
-          "rgb": "90, 191, 221",
-          "name": "Shallow Waters",
-          "meaning": "Clarity, refreshment, playfulness"
+          "hex": "#A78E79",
+          "rgb": "167, 142, 121",
+          "name": "Shiitake Stem",
+          "meaning": "Immune support, adaptability, forest connection"
         },
         {
-          "hex": "#DFEDFA",
-          "rgb": "223, 237, 250",
-          "name": "Sea Foam",
-          "meaning": "Purity, lightness, tranquility"
+          "hex": "#DFD3C3",
+          "rgb": "223, 211, 195",
+          "name": "Oyster Gills",
+          "meaning": "Delicate strength, nutrient cycling, decomposition beauty"
         }
       ],
-      "mood": "Refreshing, calming, expansive",
-      "bestApplications": ["Travel content", "Spa and wellness", "Maritime themes", "Summer products"],
-      "complementaryTextures": ["Rippled water", "Sandy textures", "Weathered wood"],
-      "associatedGenreIds": ["organic", "nordic"]
+      "mood": "Earthy, mysterious, transformative",
+      "bestApplications": ["Fungi products", "Forest education", "Ecosystem services", "Natural remedies"],
+      "complementaryTextures": ["Gill patterns", "Mycelium networks", "Spore prints"],
+      "associatedGenreIds": ["wildForager", "botanicalModern", "rawVegan"],
+      "associatedEmotions": {
+        "feelings": ["Mystery", "Transformation", "Ecological connection", "Hidden knowledge"],
+        "origin": "Arises from humanity's complex historical relationship with fungi as food, medicine, and decomposers. The emotional response reflects both ancestral wariness of poisonous specimens and cultural appreciation for edible varieties that connect us to forest ecosystems."
+      }
     },
     {
-      "id": "confettiExplosion",
-      "name": "Confetti Explosion",
-      "description": "Vibrant, energetic palette featuring bold primary colors that create a sense of celebration, joy and playful energy.",
+      "id": "orchardBloom",
+      "name": "Orchard Bloom",
+      "description": "Delicate, spring-inspired palette celebrating the blossoms that precede fruit, connecting to seasonal cycles and the promise of harvest.",
       "colors": [
         {
-          "hex": "#FF5252",
-          "rgb": "255, 82, 82",
-          "name": "Party Red",
-          "meaning": "Excitement, celebration, enthusiasm"
+          "hex": "#67334F",
+          "rgb": "103, 51, 79",
+          "name": "Cherry Blossom Heart",
+          "meaning": "Renewal, potential, ephemeral beauty"
         },
         {
-          "hex": "#FFDF00",
-          "rgb": "255, 223, 0",
-          "name": "Festive Yellow",
-          "meaning": "Joy, optimism, energy"
+          "hex": "#E3B5BD",
+          "rgb": "227, 181, 189",
+          "name": "Apple Blossom",
+          "meaning": "New beginnings, pollination, promise of sweetness"
         },
         {
-          "hex": "#00C2FF",
-          "rgb": "0, 194, 255",
-          "name": "Electric Blue",
-          "meaning": "Vivacity, dynamism, surprise"
+          "hex": "#F9F1E6",
+          "rgb": "249, 241, 230",
+          "name": "Pear Petal",
+          "meaning": "Delicacy, fruit tree cultivation, seasonal awareness"
         }
       ],
-      "mood": "Energetic, playful, joyful",
-      "bestApplications": ["Event promotions", "Children's products", "Entertainment brands", "Festive occasions"],
-      "complementaryTextures": ["Geometric patterns", "Scattered shapes", "Dotted elements"],
-      "associatedGenreIds": ["memphis", "retro"]
+      "mood": "Hopeful, delicate, cyclical",
+      "bestApplications": ["Spring campaigns", "Organic orchards", "Floral foods", "Seasonal celebrations"],
+      "complementaryTextures": ["Petal patterns", "Watercolor washes", "Delicate linework"],
+      "associatedGenreIds": ["botanicalModern", "wildForager", "herbGarden"],
+      "associatedEmotions": {
+        "feelings": ["Anticipation", "Renewal", "Pollinator kinship", "Cyclical awareness"],
+        "origin": "Based in our agricultural relationship with fruit trees and their seasonal cycles. The emotional response connects to cultural celebrations of spring blossoming and the promise of future abundance through pollination."
+      }
     },
     {
-      "id": "concreteJungle",
-      "name": "Concrete Jungle",
-      "description": "Raw, industrial palette featuring various shades of gray with subtle warm undertones, reflecting urban environments and brutalist aesthetics.",
+      "id": "seaVegetable",
+      "name": "Sea Vegetable",
+      "description": "Deep, oceanic palette inspired by nutritious sea vegetables, connecting plant-based eating to marine ecosystems.",
       "colors": [
         {
-          "hex": "#3D3D3D",
-          "rgb": "61, 61, 61",
-          "name": "Raw Concrete",
-          "meaning": "Solidity, urban reality, foundation"
+          "hex": "#0D3B45",
+          "rgb": "13, 59, 69",
+          "name": "Nori Depth",
+          "meaning": "Mineral richness, oceanic nutrition, ancestral wisdom"
         },
         {
-          "hex": "#8A7D76",
-          "rgb": "138, 125, 118",
-          "name": "Weathered Steel",
-          "meaning": "Resilience, industrial heritage, transformation"
+          "hex": "#156345",
+          "rgb": "21, 99, 69",
+          "name": "Wakame Wave",
+          "meaning": "Sea minerals, fluid movement, aquatic greens"
         },
         {
-          "hex": "#BFBCB8",
-          "rgb": "191, 188, 184",
-          "name": "Construction Dust",
-          "meaning": "Imperfection, work in progress, urban texture"
+          "hex": "#AFD2B3",
+          "rgb": "175, 210, 179",
+          "name": "Sea Lettuce",
+          "meaning": "Ocean harvest, iodine health, coastal foraging"
         }
       ],
-      "mood": "Raw, industrial, uncompromising",
-      "bestApplications": ["Architecture presentations", "Industrial design", "Urban photography", "Alternative art"],
-      "complementaryTextures": ["Rough concrete", "Exposed materials", "Industrial surfaces"],
-      "associatedGenreIds": ["brutalist", "cyberpunk"]
+      "mood": "Oceanic, mineral-rich, mysterious",
+      "bestApplications": ["Sea vegetable products", "Coastal cuisine", "Mineral supplements", "Ocean conservation"],
+      "complementaryTextures": ["Wave patterns", "Dried seaweed textures", "Salt crystals"],
+      "associatedGenreIds": ["wildForager", "rawVegan", "botanicalModern"],
+      "associatedEmotions": {
+        "feelings": ["Mineral vitality", "Oceanic connection", "Ancestral coastal memory", "Elemental harmony"],
+        "origin": "Derived from coastal cultures' relationship with edible seaweeds as vital sources of minerals and nutrition. The emotional response connects to both primal oceanic origins and the importance of sea vegetables in traditional coastal diets worldwide."
+      }
+    },
+    {
+      "id": "sproutLife",
+      "name": "Sprout Life",
+      "description": "Fresh, vibrant palette inspired by sprouted seeds and microgreens, celebrating the concentrated nutrition and life force of germination.",
+      "colors": [
+        {
+          "hex": "#2B4427",
+          "rgb": "43, 68, 39",
+          "name": "Microgreen Base",
+          "meaning": "Life potential, concentrated nutrition, genetic activation"
+        },
+        {
+          "hex": "#93BD6F",
+          "rgb": "147, 189, 111",
+          "name": "Sprouted Leaf",
+          "meaning": "Vitality, enzyme activity, awakened nutrition"
+        },
+        {
+          "hex": "#E8F8D8",
+          "rgb": "232, 248, 216",
+          "name": "Alfalfa Light",
+          "meaning": "New beginnings, purification, growth potential"
+        }
+      ],
+      "mood": "Vital, fresh, transformative",
+      "bestApplications": ["Living foods", "Detox programs", "Sprouting equipment", "Nutritional education"],
+      "complementaryTextures": ["Tiny leaf patterns", "Water droplets", "Geometric growth"],
+      "associatedGenreIds": ["rawVegan", "botanicalModern", "permaculturePattern"],
+      "associatedEmotions": {
+        "feelings": ["Renewal", "Life force", "Purification", "Nutritional intelligence"],
+        "origin": "Based in our observation of nature's germination processes and human cultivation of sprouts for concentrated nutrition. The emotional response connects to our innate recognition of the power contained in sprouting seeds as they transform into living plants."
+      }
+    },
+    {
+      "id": "fermentationAlchemy",
+      "name": "Fermentation Alchemy",
+      "description": "Rich, complex palette inspired by fermented plant foods, celebrating the transformation of simple ingredients into probiotic-rich foods.",
+      "colors": [
+        {
+          "hex": "#712F26",
+          "rgb": "113, 47, 38",
+          "name": "Miso Depth",
+          "meaning": "Umami complexity, patient transformation, time-honored wisdom"
+        },
+        {
+          "hex": "#BD7F4C",
+          "rgb": "189, 127, 76",
+          "name": "Tempeh Culture",
+          "meaning": "Controlled transformation, protein development, traditional knowledge"
+        },
+        {
+          "hex": "#F3EDD7",
+          "rgb": "243, 237, 215",
+          "name": "Koji Bloom",
+          "meaning": "Microbial magic, invisible transformation, gut harmony"
+        }
+      ],
+      "mood": "Transformative, complex, traditional",
+      "bestApplications": ["Fermented foods", "Traditional preparations", "Gut health", "Culinary education"],
+      "complementaryTextures": ["Bubbles", "Mycelial patterns", "Salt crystals"],
+      "associatedGenreIds": ["vintageFarmstead", "herbGarden", "earthMinimalist"],
+      "associatedEmotions": {
+        "feelings": ["Patience", "Microbial kinship", "Digestive wisdom", "Cultural preservation"],
+        "origin": "Emerges from humanity's ancient relationship with beneficial microbes that transform foods. The emotional response connects to generational wisdom about food preservation and the almost magical transformation of simple ingredients into complex, living foods."
+      }
+    },
+    {
+      "id": "wildEdibles",
+      "name": "Wild Edibles",
+      "description": "Earthy, diverse palette inspired by foraged wild foods, connecting to traditional ecological knowledge and seasonal harvesting.",
+      "colors": [
+        {
+          "hex": "#3E4B30",
+          "rgb": "62, 75, 48",
+          "name": "Nettle Depth",
+          "meaning": "Wild wisdom, untamed nutrition, resilient medicine"
+        },
+        {
+          "hex": "#8A7968",
+          "rgb": "138, 121, 104",
+          "name": "Wild Mushroom",
+          "meaning": "Earth connection, undomesticated food, forest knowledge"
+        },
+        {
+          "hex": "#D0E0B2",
+          "rgb": "208, 224, 178",
+          "name": "Spring Clover",
+          "meaning": "Uncultivated abundance, nitrogen richness, foraged delight"
+        }
+      ],
+      "mood": "Wild, knowledgeable, connected",
+      "bestApplications": ["Foraging education", "Herbalism", "Wilderness skills", "Alternative food systems"],
+      "complementaryTextures": ["Varied plant patterns", "Natural irregularities", "Wilderness elements"],
+      "associatedGenreIds": ["wildForager", "herbGarden", "permaculturePattern"],
+      "associatedEmotions": {
+        "feelings": ["Freedom", "Self-reliance", "Ancestral connection", "Ecological literacy"],
+        "origin": "Rooted in humanity's original relationship with plants as foragers before agriculture. The emotional response connects to both ancient survival knowledge and contemporary desire for autonomous food relationships outside industrial systems."
+      }
+    },
+    {
+      "id": "sacredSage",
+      "name": "Sacred Sage",
+      "description": "Mystical, spiritual palette inspired by plants used in sacred traditions, honoring their ceremonial and healing properties.",
+      "colors": [
+        {
+          "hex": "#2D3A2C",
+          "rgb": "45, 58, 44",
+          "name": "Sacred Tobacco",
+          "meaning": "Communication boundary, respectful ceremony, plant wisdom"
+        },
+        {
+          "hex": "#8A9D7B",
+          "rgb": "138, 157, 123",
+          "name": "White Sage",
+          "meaning": "Purification, protection, clear vision"
+        },
+        {
+          "hex": "#E8E2D3",
+          "rgb": "232, 226, 211",
+          "name": "Copal Smoke",
+          "meaning": "Spirit connection, ancestral bridge, ceremonial respect"
+        }
+      ],
+      "mood": "Reverent, spiritual, meditative",
+      "bestApplications": ["Plant medicine", "Spiritual traditions", "Indigenous collaboration", "Mindfulness practices"],
+      "complementaryTextures": ["Smoke patterns", "Natural imperfections", "Handcrafted elements"],
+      "associatedGenreIds": ["sacredBotany", "herbGarden", "wildForager"],
+      "associatedEmotions": {
+        "feelings": ["Reverence", "Ancestral connection", "Spiritual awareness", "Ceremonial mindset"],
+        "origin": "Emerges from humanity's use of certain plants for spiritual and ceremonial purposes across cultures. The emotional response connects to our recognition of plants that alter consciousness or create ceremonial spaces through smoke, taste, or scent."
+      }
+    },
+    {
+      "id": "tropicalBounty",
+      "name": "Tropical Bounty",
+      "description": "Vibrant, lush palette inspired by tropical fruits and plants, celebrating their intense flavors and nutritional richness.",
+      "colors": [
+        {
+          "hex": "#814E19",
+          "rgb": "129, 78, 25",
+          "name": "Jackfruit Core",
+          "meaning": "Tropical abundance, meat alternative, sustainable harvest"
+        },
+        {
+          "hex": "#FA7B25",
+          "rgb": "250, 123, 37",
+          "name": "Mango Sunset",
+          "meaning": "Exotic sweetness, tropical vitamin wealth, solar energy"
+        },
+        {
+          "hex": "#F9E45B",
+          "rgb": "249, 228, 91",
+          "name": "Pineapple Gold",
+          "meaning": "Tropical welcome, digestive enzymes, vibrant hospitality"
+        }
+      ],
+      "mood": "Vibrant, exotic, abundant",
+      "bestApplications": ["Tropical foods", "Fruit businesses", "Vacation themes", "Exotic flavors"],
+      "complementaryTextures": ["Fruit flesh patterns", "Leaf textures", "Natural juiciness"],
+      "associatedGenreIds": ["rawVegan", "tropicalPlantLab", "botanicalModern"],
+      "associatedEmotions": {
+        "feelings": ["Abundance", "Sensory delight", "Tropical nostalgia", "Solar vitality"],
+        "origin": "Stemming from humanity's relationship with tropical fruits as rare delicacies or cultural staples depending on geography. The emotional response connects to both the sensory intensity of these fruits and their association with abundance and exotic locations."
+      }
+    },
+    {
+      "id": "medicinalHerbs",
+      "name": "Medicinal Herbs",
+      "description": "Healing-focused palette inspired by traditional medicinal plants, honoring their therapeutic properties and traditional uses.",
+      "colors": [
+        {
+          "hex": "#4E5E33",
+          "rgb": "78, 94, 51",
+          "name": "Echinacea Leaf",
+          "meaning": "Immune support, resilient health, traditional remedy"
+        },
+        {
+          "hex": "#8768A3",
+          "rgb": "135, 104, 163",
+          "name": "Elder Flower",
+          "meaning": "Elder wisdom, respiratory health, protective energy"
+        },
+        {
+          "hex": "#E1C78F",
+          "rgb": "225, 199, 143",
+          "name": "Calendula Gold",
+          "meaning": "Skin healing, gentle care, sunny resilience"
+        }
+      ],
+      "mood": "Healing, knowledgeable, nurturing",
+      "bestApplications": ["Herbal products", "Natural remedies", "Health education", "Apothecary designs"],
+      "complementaryTextures": ["Dried herb textures", "Botanical illustrations", "Mortar and pestle marks"],
+      "associatedGenreIds": ["herbGarden", "sacredBotany", "wildForager"],
+      "associatedEmotions": {
+        "feelings": ["Healing confidence", "Traditional wisdom", "Self-reliance", "Care"],
+        "origin": "Rooted in humanity's ancient knowledge of plants as medicine before pharmaceutical isolation of compounds. The emotional response connects to ancestral healing traditions and the empowerment of traditional plant knowledge for self and community care."
+      }
+    },
+    {
+      "id": "cruciferous",
+      "name": "Cruciferous Power",
+      "description": "Strong, vital palette inspired by nutrient-dense cruciferous vegetables, celebrating their distinctive flavors and cancer-fighting properties.",
+      "colors": [
+        {
+          "hex": "#433D63",
+          "rgb": "67, 61, 99",
+          "name": "Red Cabbage Depth",
+          "meaning": "Anthocyanin power, protective nutrition, humble strength"
+        },
+        {
+          "hex": "#718432",
+          "rgb": "113, 132, 50",
+          "name": "Broccoli Forest",
+          "meaning": "Detoxification, cancer prevention, stoic nutrition"
+        },
+        {
+          "hex": "#EBE4BD",
+          "rgb": "235, 228, 189",
+          "name": "Cauliflower Cream",
+          "meaning": "Versatile potential, transformative base, culinary canvas"
+        }
+      ],
+      "mood": "Potent, protective, substantial",
+      "bestApplications": ["Nutrition programs", "Cancer prevention", "Detox protocols", "Vegetable-centered cuisine"],
+      "complementaryTextures": ["Cabbage leaf patterns", "Fractal florets", "Cross-sections"],
+      "associatedGenreIds": ["rawVegan", "vintageFarmstead", "botanicalModern"],
+      "associatedEmotions": {
+        "feelings": ["Protection", "Fortitude", "Cellular renewal", "Resilient health"],
+        "origin": "Based in our modern scientific understanding of these vegetables' remarkable nutritional profiles combined with traditional knowledge of their importance in human diets. The emotional response connects to contemporary awareness of their role in disease prevention."
+      }
+    },
+    {
+      "id": "heirloomVegetables",
+      "name": "Heirloom Vegetables",
+      "description": "Diverse, rich palette inspired by heritage vegetable varieties, celebrating biodiversity, seed saving, and traditional cultivation.",
+      "colors": [
+        {
+          "hex": "#5A1F3C",
+          "rgb": "90, 31, 60",
+          "name": "Cherokee Purple",
+          "meaning": "Genetic diversity, cultural preservation, flavor complexity"
+        },
+        {
+          "hex": "#DF8130",
+          "rgb": "223, 129, 48",
+          "name": "Mortgage Lifter",
+          "meaning": "Depression-era resilience, agricultural self-reliance, family sustenance"
+        },
+        {
+          "hex": "#F1CDD1",
+          "rgb": "241, 205, 209",
+          "name": "Pink Brandywine",
+          "meaning": "Flavor heritage, seed saving tradition, gardener wisdom"
+        }
+      ],
+      "mood": "Traditional, diverse, preservationist",
+      "bestApplications": ["Seed companies", "Heritage foods", "Gardening education", "Biodiversity initiatives"],
+      "complementaryTextures": ["Seed packet illustrations", "Hand-drawn varieties", "Garden planning graphics"],
+      "associatedGenreIds": ["vintageFarmstead", "permaculturePattern", "herbGarden"],
+      "associatedEmotions": {
+        "feelings": ["Heritage pride", "Biodiversity appreciation", "Cultural preservation", "Taste memory"],
+        "origin": "Stemming from the agricultural heritage of seed saving and the emotional response to vegetable varieties developed through generations of selection. The emotions connect to both nostalgia for lost agricultural diversity and commitment to preserving genetic and culinary heritage."
+      }
+    },
+    {
+      "id": "soilHealth",
+      "name": "Soil Health",
+      "description": "Earthy, rich palette inspired by healthy soil ecosystems, honoring the foundation of plant-based food systems.",
+      "colors": [
+        {
+          "hex": "#422D1A",
+          "rgb": "66, 45, 26",
+          "name": "Humus Depth",
+          "meaning": "Carbon sequestration, microbiome richness, foundational health"
+        },
+        {
+          "hex": "#6E5238",
+          "rgb": "110, 82, 56",
+          "name": "Living Loam",
+          "meaning": "Microbial activity, nutrient cycling, plant foundation"
+        },
+        {
+          "hex": "#B89D7A",
+          "rgb": "184, 157, 122",
+          "name": "Mycorrhizal Network",
+          "meaning": "Underground cooperation, nutrient exchange, plant communication"
+        }
+      ],
+      "mood": "Grounding, regenerative, foundational",
+      "bestApplications": ["Regenerative agriculture", "Composting services", "Garden education", "Environmental restoration"],
+      "complementaryTextures": ["Soil aggregates", "Root patterns", "Worm castings"],
+      "associatedGenreIds": ["permaculturePattern", "earthMinimalist", "wildForager"],
+      "associatedEmotions": {
+        "feelings": ["Groundedness", "Cyclical thinking", "Regenerative hope", "Microbial kinship"],
+        "origin": "Founded in our growing scientific understanding of soil as a living ecosystem rather than inert material. The emotional response connects to both ancient farmer wisdom about soil care and modern ecological awareness of soil's role in planetary health and climate stability."
+      }
+    },
+    {
+      "id": "foliageVariety",
+      "name": "Foliage Variety",
+      "description": "Diverse green palette celebrating the many shades and textures of plant leaves, from deep forest tones to bright new growth.",
+      "colors": [
+        {
+          "hex": "#1F3D24",
+          "rgb": "31, 61, 36",
+          "name": "Evergreen Depth",
+          "meaning": "Perennial strength, winter endurance, constant presence"
+        },
+        {
+          "hex": "#658240",
+          "rgb": "101, 130, 64",
+          "name": "Middle Growth",
+          "meaning": "Established systems, productive maturity, reliable presence"
+        },
+        {
+          "hex": "#C5E0B3",
+          "rgb": "197, 224, 179",
+          "name": "New Leaf",
+          "meaning": "Fresh starts, spring energy, unfolding potential"
+        }
+      ],
+      "mood": "Natural, diversified, lush",
+      "bestApplications": ["Plant nurseries", "Garden design", "Botanical education", "Houseplant brands"],
+      "complementaryTextures": ["Leaf vein patterns", "Varied leaf shapes", "Plant structure diagrams"],
+      "associatedGenreIds": ["botanicalModern", "scandiFern", "permaculturePattern"],
+      "associatedEmotions": {
+        "feelings": ["Oxygenation", "Verdant shelter", "Photosynthetic connection", "Life force"],
+        "origin": "Derived from our evolutionary relationship with green plants as oxygen providers, shelter, and visual indicators of habitable environments. The emotional response connects to primordial recognition of plant life as essential to human survival."
+      }
+    },
+    {
+      "id": "nuttersDelight",
+      "name": "Nutter's Delight",
+      "description": "Rich, warming palette inspired by tree nuts and seeds, celebrating these concentrated sources of plant-based fats and proteins.",
+      "colors": [
+        {
+          "hex": "#4A392B",
+          "rgb": "74, 57, 43",
+          "name": "Walnut Shell",
+          "meaning": "Brain nourishment, protective boundaries, ripening patience"
+        },
+        {
+          "hex": "#B38A5B",
+          "rgb": "179, 138, 91",
+          "name": "Almond Skin",
+          "meaning": "Drought resilience, sustainable fats, milk alternative"
+        },
+        {
+          "hex": "#EDE3CF",
+          "rgb": "237, 227, 207",
+          "name": "Cashew Cream",
+          "meaning": "Culinary versatility, smooth transition, dairy freedom"
+        }
+      ],
+      "mood": "Satisfying, rich, substantial",
+      "bestApplications": ["Plant-based cheese", "Vegan protein", "Dairy alternatives", "High-energy foods"],
+      "complementaryTextures": ["Nut cross-sections", "Shell patterns", "Roasted surfaces"],
+      "associatedGenreIds": ["rawVegan", "earthMinimalist", "vintageFarmstead"],
+      "associatedEmotions": {
+        "feelings": ["Satiation", "Energetic fullness", "Nutritional security", "Rich sufficiency"],
+        "origin": "Based in our evolutionary relationship with energy-dense tree nuts as survival foods during lean times. The emotional response connects to both ancestral food security through foraging and modern appreciation for plant-based proteins and fats."
+      }
+    },
+    {
+      "id": "wateringHole",
+      "name": "Watering Hole",
+      "description": "Fresh, fluid palette inspired by clean water sources and their vital role in plant-based ecosystems and hydration.",
+      "colors": [
+        {
+          "hex": "#144D6E",
+          "rgb": "20, 77, 110",
+          "name": "Deep Spring",
+          "meaning": "Water source, life origin, hydration depth"
+        },
+        {
+          "hex": "#6DB0D9",
+          "rgb": "109, 176, 217",
+          "name": "Fresh Current",
+          "meaning": "Movement, cleansing flow, transparent purity"
+        },
+        {
+          "hex": "#E8F6FF",
+          "rgb": "232, 246, 255",
+          "name": "Water Clarity",
+          "meaning": "Pristine reflection, cellular cleansing, fundamental necessity"
+        }
+      ],
+      "mood": "Refreshing, essential, purifying",
+      "bestApplications": ["Hydration products", "Spring water", "Plant irrigation", "Cleansing services"],
+      "complementaryTextures": ["Ripple patterns", "Droplet forms", "Fluid movements"],
+      "associatedGenreIds": ["botanicalModern", "earthMinimalist", "permaculturePattern"],
+      "associatedEmotions": {
+        "feelings": ["Thirst satisfaction", "Vital necessity", "Purification", "Life's foundation"],
+        "origin": "Rooted in our biological dependence on clean water for survival and our evolutionary attraction to clear water sources. The emotional response connects to both primal thirst satisfaction and recognition of water as the medium of life."
+      }
+    },
+    {
+      "id": "compostCycle",
+      "name": "Compost Cycle",
+      "description": "Regenerative palette inspired by the composting process, celebrating the transformation of plant waste into new soil.",
+      "colors": [
+        {
+          "hex": "#302318",
+          "rgb": "48, 35, 24",
+          "name": "Finished Compost",
+          "meaning": "Completed cycle, regenerated fertility, decay transformed"
+        },
+        {
+          "hex": "#5E4929",
+          "rgb": "94, 73, 41",
+          "name": "Active Decomposition",
+          "meaning": "Transformation process, microbial activity, breaking down"
+        },
+        {
+          "hex": "#BEA36E",
+          "rgb": "190, 163, 110",
+          "name": "Carbon Layer",
+          "meaning": "Structural balance, sequestration, patient framework"
+        }
+      ],
+      "mood": "Cyclical, regenerative, transformative",
+      "bestApplications": ["Composting services", "Zero waste initiatives", "Garden education", "Circular systems"],
+      "complementaryTextures": ["Layered materials", "Decomposing leaves", "Mycelia threads"],
+      "associatedGenreIds": ["permaculturePattern", "earthMinimalist", "wildForager"],
+      "associatedEmotions": {
+        "feelings": ["Cyclical completion", "Waste redemption", "Microbial partnership", "Eco-consciousness"],
+        "origin": "Founded in our observation of nature's decomposition cycles and traditional agricultural knowledge of soil building. The emotional response connects to modern ecological awareness of closing loops and finding value in what was discarded."
+      }
+    },
+    {
+      "id": "seedToSprout",
+      "name": "Seed To Sprout",
+      "description": "Transformative palette inspired by the germination process, celebrating the journey from dormant seed to vibrant growth.",
+      "colors": [
+        {
+          "hex": "#3D301F",
+          "rgb": "61, 48, 31",
+          "name": "Dormant Seed",
+          "meaning": "Potential energy, patience, genetic wisdom"
+        },
+        {
+          "hex": "#846A3D",
+          "rgb": "132, 106, 61",
+          "name": "Breaking Hull",
+          "meaning": "Awakening, transformation beginning, resistance overcome"
+        },
+        {
+          "hex": "#D8E8C5",
+          "rgb": "216, 232, 197",
+          "name": "First Cotyledon",
+          "meaning": "Initial breakthrough, stored energy used, first photosynthesis"
+        }
+      ],
+      "mood": "Transformative, hopeful, emergent",
+      "bestApplications": ["Seed companies", "Educational initiatives", "New businesses", "Growth programs"],
+      "complementaryTextures": ["Seed coats", "Root structures", "Cell patterns"],
+      "associatedGenreIds": ["permaculturePattern", "botanicalModern", "rawVegan"],
+      "associatedEmotions": {
+        "feelings": ["Emergence", "Potential actualized", "Patient growth", "Natural timing"],
+        "origin": "Based in our observation of seeds breaking dormancy and beginning growth, one of nature's most profound transformations. The emotional response connects to universal themes of potential, patience, and the courage of new beginnings."
+      }
+    },
+    {
+      "id": "floweringMeadow",
+      "name": "Flowering Meadow",
+      "description": "Vibrant, diverse palette inspired by wildflower meadows, celebrating plant reproduction and pollinator relationships.",
+      "colors": [
+        {
+          "hex": "#4D3B2D",
+          "rgb": "77, 59, 45",
+          "name": "Fertile Soil",
+          "meaning": "Foundation, diversity support, ecological matrix"
+        },
+        {
+          "hex": "#BA3C48",
+          "rgb": "186, 60, 72",
+          "name": "Wild Poppy",
+          "meaning": "Bold attraction, pollinator beacon, ephemeral beauty"
+        },
+        {
+          "hex": "#FBE895",
+          "rgb": "251, 232, 149",
+          "name": "Buttercup Glow",
+          "meaning": "Cheerful presence, insect guidance, solar reflection"
+        }
+      ],
+      "mood": "Vibrant, diverse, ecological",
+      "bestApplications": ["Pollinator initiatives", "Wildflower products", "Meadow restoration", "Spring campaigns"],
+      "complementaryTextures": ["Petal forms", "Meadow patterns", "Pollen details"],
+      "associatedGenreIds": ["wildForager", "botanicalModern", "permaculturePattern"],
+      "associatedEmotions": {
+        "feelings": ["Biodiversity joy", "Pollinator kinship", "Visual delight", "Ecological health"],
+        "origin": "Rooted in our co-evolutionary relationship with flowering plants and our innate attraction to diverse flower displays. The emotional response connects to both aesthetic pleasure and recognition of healthy ecosystems."
+      }
+    },
+    {
+      "id": "plantMilk",
+      "name": "Plant Milk",
+      "description": "Smooth, creamy palette inspired by dairy alternatives, celebrating the transformation of plants into nourishing liquids.",
+      "colors": [
+        {
+          "hex": "#3D2314",
+          "rgb": "61, 35, 20",
+          "name": "Chocolate Oat",
+          "meaning": "Comfort transition, familiar indulgence, plant transformation"
+        },
+        {
+          "hex": "#C7A989",
+          "rgb": "199, 169, 137",
+          "name": "Almond Beige",
+          "meaning": "Nutty smoothness, calcium alternative, light digestion"
+        },
+        {
+          "hex": "#FDFBF7",
+          "rgb": "253, 251, 247",
+          "name": "Coconut White",
+          "meaning": "Tropical creaminess, versatile replacement, dairy freedom"
+        }
+      ],
+      "mood": "Smooth, transitional, comforting",
+      "bestApplications": ["Dairy alternatives", "Plant milk brands", "Coffee shops", "Transition guides"],
+      "complementaryTextures": ["Liquid swirls", "Frothy surfaces", "Smooth pours"],
+      "associatedGenreIds": ["rawVegan", "botanicalModern", "earthMinimalist"],
+      "associatedEmotions": {
+        "feelings": ["Familiarity", "Comfort transition", "Ethical satisfaction", "Digestive ease"],
+        "origin": "Emerging from contemporary innovation in plant-based alternatives to animal products. The emotional response connects to both the comfort of familiar experiences and the satisfaction of ethical food choices aligned with values."
+      }
+    {
+      "id": "farmSanctuary",
+      "name": "Farm Sanctuary",
+      "description": "Peaceful, compassionate palette inspired by farm animal sanctuaries and their integration with plant-based values.",
+      "colors": [
+        {
+          "hex": "#4F6D4A",
+          "rgb": "79, 109, 74",
+          "name": "Grazing Field",
+          "meaning": "Safe haven, peaceful existence, animal dignity"
+        },
+        {
+          "hex": "#D6BB79",
+          "rgb": "214, 187, 121",
+          "name": "Straw Bedding",
+          "meaning": "Comfort provision, basic needs met, simple kindness"
+        },
+        {
+          "hex": "#F8F4EA",
+          "rgb": "248, 244, 234",
+          "name": "Gentle Dawn",
+          "meaning": "New beginning, liberation, peaceful awakening"
+        }
+      ],
+      "mood": "Peaceful, compassionate, sheltering",
+      "bestApplications": ["Animal rights", "Vegan transition", "Compassionate living", "Ethical education"],
+      "complementaryTextures": ["Soft hay patterns", "Worn wood", "Gentle landscapes"],
+      "associatedGenreIds": ["vintageFarmstead", "earthMinimalist", "permaculturePattern"],
+      "associatedEmotions": {
+        "feelings": ["Compassion", "Peaceful coexistence", "Moral alignment", "Restorative justice"],
+        "origin": "Emerging from modern ethical movements recognizing farm animals as individuals deserving care rather than commodities. The emotional response connects to the relief of moral consistency and witnessing healing and dignity restored to previously exploited beings."
+      }
+    },
+    {
+      "id": "forestFloor",
+      "name": "Forest Floor",
+      "description": "Rich, multilayered palette inspired by woodland ecosystems, celebrating the complexity of natural decomposition and regrowth.",
+      "colors": [
+        {
+          "hex": "#2D2319",
+          "rgb": "45, 35, 25",
+          "name": "Leaf Mold",
+          "meaning": "Decomposition wisdom, nutrient cycling, time's patience"
+        },
+        {
+          "hex": "#675C3E",
+          "rgb": "103, 92, 62",
+          "name": "Duff Layer",
+          "meaning": "Transitional space, ecosystem memory, layered history"
+        },
+        {
+          "hex": "#A49878",
+          "rgb": "164, 152, 120",
+          "name": "Forest Moss",
+          "meaning": "Opportunistic life, moisture preservation, gentle persistence"
+        }
+      ],
+      "mood": "Complex, layered, cyclical",
+      "bestApplications": ["Forest conservation", "Ecosystem education", "Natural history", "Woodland products"],
+      "complementaryTextures": ["Leaf litter patterns", "Moss details", "Mycological networks"],
+      "associatedGenreIds": ["wildForager", "scandiFern", "permaculturePattern"],
+      "associatedEmotions": {
+        "feelings": ["Circular thinking", "Ecological appreciation", "Quiet regeneration", "Interdependence"],
+        "origin": "Founded in our observation of forest ecosystems and their self-sustaining cycles of growth, death, and rebirth. The emotional response connects to recognizing nature's inherent wisdom in systems that waste nothing."
+      }
+    },
+    {
+      "id": "perennialWisdom",
+      "name": "Perennial Wisdom",
+      "description": "Enduring, deep palette inspired by perennial food plants, celebrating long-term thinking and sustainable agriculture.",
+      "colors": [
+        {
+          "hex": "#27352B",
+          "rgb": "39, 53, 43",
+          "name": "Deep Roots",
+          "meaning": "Established systems, carbon sequestration, soil relationship"
+        },
+        {
+          "hex": "#636F52",
+          "rgb": "99, 111, 82",
+          "name": "Asparagus Stand",
+          "meaning": "Patient investment, returning abundance, perennial thinking"
+        },
+        {
+          "hex": "#CEC9A7",
+          "rgb": "206, 201, 167",
+          "name": "Rhubarb Light",
+          "meaning": "Early spring harvest, seasonal wisdom, established plants"
+        }
+      ],
+      "mood": "Enduring, wise, patient",
+      "bestApplications": ["Permaculture design", "Sustainable farming", "Long-term planning", "Land restoration"],
+      "complementaryTextures": ["Root structures", "Bark patterns", "Perennial growth forms"],
+      "associatedGenreIds": ["permaculturePattern", "vintageFarmstead", "earthMinimalist"],
+      "associatedEmotions": {
+        "feelings": ["Patience", "Generational thinking", "Climate hope", "Rooted stability"],
+        "origin": "Derived from both traditional agricultural knowledge and modern ecological understanding of perennial food systems. The emotional response connects to the satisfaction of long-term thinking and creating lasting agricultural abundance."
+      }
+    },
+    {
+      "id": "seasonalHarvest",
+      "name": "Seasonal Harvest",
+      "description": "Changing, cyclical palette inspired by the progression of growing seasons, celebrating time-sensitive abundance and seasonal eating.",
+      "colors": [
+        {
+          "hex": "#65341C",
+          "rgb": "101, 52, 28",
+          "name": "Autumn Squash",
+          "meaning": "Storage nutrition, harvest completion, winter preparation"
+        },
+        {
+          "hex": "#C95A34",
+          "rgb": "201, 90, 52",
+          "name": "Summer Tomato",
+          "meaning": "Peak ripeness, solar capture, seasonal joy"
+        },
+        {
+          "hex": "#F1E992",
+          "rgb": "241, 233, 146",
+          "name": "Spring Greens",
+          "meaning": "New growth, cleansing foods, seasonal restart"
+        }
+      ],
+      "mood": "Cyclical, timely, abundant",
+      "bestApplications": ["CSA programs", "Seasonal eating", "Local food systems", "Harvest celebrations"],
+      "complementaryTextures": ["Garden planning", "Harvest patterns", "Seasonal infographics"],
+      "associatedGenreIds": ["vintageFarmstead", "permaculturePattern", "rawVegan"],
+      "associatedEmotions": {
+        "feelings": ["Temporal awareness", "Natural harmony", "Anticipation", "Connected eating"],
+        "origin": "Rooted in traditional agricultural calendars and human adaptation to seasonal food availability. The emotional response connects to aligning human rhythms with natural cycles and the special delight of first harvests."
+      }
+    },
+    {
+      "id": "kitchenGarden",
+      "name": "Kitchen Garden",
+      "description": "Practical, accessible palette inspired by small-scale food production spaces adjacent to cooking areas.",
+      "colors": [
+        {
+          "hex": "#483F27",
+          "rgb": "72, 63, 39",
+          "name": "Garden Soil",
+          "meaning": "Foundation, cultivation canvas, human-scale nurturing"
+        },
+        {
+          "hex": "#9A803E",
+          "rgb": "154, 128, 62",
+          "name": "Wicker Basket",
+          "meaning": "Harvest vessel, gathering tradition, practical beauty"
+        },
+        {
+          "hex": "#E1E7D0",
+          "rgb": "225, 231, 208",
+          "name": "Herb Bloom",
+          "meaning": "Gentle provision, daily freshness, cooking relationship"
+        }
+      ],
+      "mood": "Practical, nurturing, accessible",
+      "bestApplications": ["Home gardening", "Cooking resources", "Seed companies", "Small-space growing"],
+      "complementaryTextures": ["Woven structures", "Garden row patterns", "Hand tools"],
+      "associatedGenreIds": ["herbGarden", "vintageFarmstead", "earthMinimalist"],
+      "associatedEmotions": {
+        "feelings": ["Self-reliance", "Daily satisfaction", "Accessible abundance", "Connected cooking"],
+        "origin": "Based in the historical tradition of kitchen gardens that connected cooking directly to growing. The emotional response connects to the satisfaction of self-provision and the sensory pleasure of cooking with just-harvested ingredients."
+      }
+    },
+    {
+      "id": "plantMedicine",
+      "name": "Plant Medicine",
+      "description": "Healing-focused palette inspired by medicinal plant traditions across cultures, honoring plant-based healing approaches.",
+      "colors": [
+        {
+          "hex": "#2A4336",
+          "rgb": "42, 67, 54",
+          "name": "Healing Forest",
+          "meaning": "Nature's pharmacy, wild medicine, traditional knowledge"
+        },
+        {
+          "hex": "#798B56",
+          "rgb": "121, 139, 86",
+          "name": "Herbal Tincture",
+          "meaning": "Concentrated healing, plant extraction, medicinal potency"
+        },
+        {
+          "hex": "#E8DED1",
+          "rgb": "232, 222, 209",
+          "name": "Salve Base",
+          "meaning": "Topical healing, gentle carrier, application medium"
+        }
+      ],
+      "mood": "Healing, traditional, knowledgeable",
+      "bestApplications": ["Herbal medicine", "Natural remedies", "Wellness education", "Healing centers"],
+      "complementaryTextures": ["Herbal preparations", "Botanical drawings", "Apothecary elements"],
+      "associatedGenreIds": ["herbGarden", "sacredBotany", "wildForager"],
+      "associatedEmotions": {
+        "feelings": ["Healing wisdom", "Body knowledge", "Ancestral connection", "Self-determination"],
+        "origin": "Derived from humanity's oldest healing traditions using plants as medicine. The emotional response connects to reclaiming traditional knowledge and self-determination in health practices outside industrial medicine."
+      }
     }
   ]
 }
