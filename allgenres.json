@@ -1,94 +1,94 @@
 {
   "genres": [
     {
-      "id": "cyberpunk",
-      "name": "Cyberpunk",
-      "description": "A subgenre of science fiction in a dystopian futuristic setting that combines advanced technology with a degree of societal breakdown or radical change.",
-      "characteristics": ["Dystopian future", "High technology", "Urban decay", "Corporate domination", "Digital interfaces", "Noir elements"],
-      "useCases": ["Sci-fi interfaces", "Futuristic game design", "Technological branding", "Nightlife advertising", "Streaming overlays"],
-      "associatedEmotions": ["Anxiety", "Wonder", "Rebellion", "Isolation", "Technological fascination"],
-      "recommendedPaletteIds": ["neonNights", "digitalDream", "urbanDecay"]
+      "id": "botanicalModern",
+      "name": "Botanical Modern",
+      "description": "A contemporary design approach that integrates lush plant imagery with clean lines, creating spaces that breathe life into minimal structures.",
+      "characteristics": ["Living walls", "Indoor forests", "Biophilic elements", "Clean angles", "Natural light", "Organic materials"],
+      "useCases": ["Sustainable architecture", "Vegan restaurants", "Plant-based skincare", "Urban gardens", "Wellness spaces"],
+      "associatedEmotions": ["Rejuvenation", "Clarity", "Connection", "Vitality", "Environmental consciousness"],
+      "recommendedPaletteIds": ["verdantGreens", "naturalLight", "bambooSage"]
     },
     {
-      "id": "minimalist",
-      "name": "Minimalist",
-      "description": "A design approach that emphasizes simplicity and the removal of superfluous elements, focusing on essential components with ample negative space.",
-      "characteristics": ["Clean lines", "Negative space", "Limited color palette", "Typography focus", "Functional elements only"],
-      "useCases": ["Modern branding", "Professional documents", "Clean user interfaces", "Luxury product packaging", "Architectural presentations"],
-      "associatedEmotions": ["Calm", "Focus", "Sophistication", "Clarity", "Intelligence"],
-      "recommendedPaletteIds": ["monochrome", "subtleEarth", "stoneAndSky"]
+      "id": "earthMinimalist",
+      "name": "Earth Minimalist",
+      "description": "A design approach that embodies simplicity through natural, unprocessed materials and textures, with a focus on sustainability and ethical sourcing.",
+      "characteristics": ["Raw textures", "Unbleached fabrics", "Plant-based dyes", "Hemp elements", "Reclaimed materials", "Functional design"],
+      "useCases": ["Zero-waste packaging", "Vegan fashion", "Sustainable home goods", "Farmers markets", "Eco-conscious branding"],
+      "associatedEmotions": ["Groundedness", "Integrity", "Mindfulness", "Simplicity", "Environmental responsibility"],
+      "recommendedPaletteIds": ["rawEarth", "undyedNeutrals", "seedToStem"]
     },
     {
-      "id": "retro",
-      "name": "Retro",
-      "description": "Design aesthetic that draws inspiration from styles popular in the past, particularly the 1950s through the 1990s, often with a nostalgic flair.",
-      "characteristics": ["Vintage typography", "Saturated colors", "Geometric patterns", "Grainy textures", "Pop cultural references"],
-      "useCases": ["Nostalgic marketing", "Period pieces", "Vintage shops", "Music packaging", "Themed events"],
-      "associatedEmotions": ["Nostalgia", "Playfulness", "Comfort", "Recognition", "Joy"],
-      "recommendedPaletteIds": ["vintageVibes", "sunsetNostalgia", "retroArcade"]
+      "id": "vintageFarmstead",
+      "name": "Vintage Farmstead",
+      "description": "Nostalgic design aesthetic drawing from traditional farming and homesteading, celebrating heritage crops, heirloom vegetables, and traditional preservation methods.",
+      "characteristics": ["Hand-illustrated botanicals", "Seed packet aesthetics", "Weathered wood", "Apothecary elements", "Handcrafted details", "Farmhouse typography"],
+      "useCases": ["Organic produce", "Seed companies", "Plant-based preserves", "Herbal products", "Local food systems"],
+      "associatedEmotions": ["Nostalgia", "Abundance", "Heritage", "Self-reliance", "Community"],
+      "recommendedPaletteIds": ["heirloomTomato", "wheatField", "rootCellar"]
     },
     {
-      "id": "organic",
-      "name": "Organic",
-      "description": "Design approach inspired by natural forms, featuring irregular shapes, flowing lines, and elements that mimic patterns found in nature.",
-      "characteristics": ["Biomorphic shapes", "Natural textures", "Flowing lines", "Plant motifs", "Environmental themes"],
-      "useCases": ["Wellness products", "Environmental organizations", "Food packaging", "Natural cosmetics", "Outdoor activities"],
-      "associatedEmotions": ["Harmony", "Growth", "Tranquility", "Health", "Connection"],
-      "recommendedPaletteIds": ["forestDepths", "earthenTones", "oceanBreeze"]
+      "id": "wildForager",
+      "name": "Wild Forager",
+      "description": "Design approach inspired by the practice of wild food gathering, featuring untamed plant forms, mushrooms, berries, and the textures of forest floors.",
+      "characteristics": ["Mushroom motifs", "Lichen textures", "Foraged botanicals", "Earth pigments", "Natural irregularities", "Field guide illustrations"],
+      "useCases": ["Mushroom products", "Wild food companies", "Herbal medicine", "Nature education", "Botanical festivals"],
+      "associatedEmotions": ["Discovery", "Wilderness", "Ancestral connection", "Seasonal awareness", "Ecological knowledge"],
+      "recommendedPaletteIds": ["forestFloor", "mushroomCap", "wildEdibles"]
     },
     {
-      "id": "brutalist",
-      "name": "Brutalist",
-      "description": "Raw, unpolished design approach characterized by bold contrasts, utilitarian elements, and often deliberately uncomfortable aesthetics that challenge conventions.",
-      "characteristics": ["Raw materials", "Stark contrasts", "Asymmetrical layouts", "Exposed structure", "Utilitarian approach"],
-      "useCases": ["Alternative art galleries", "Experimental music", "Avant-garde fashion", "Industrial design", "Protest materials"],
-      "associatedEmotions": ["Discomfort", "Provocation", "Authenticity", "Rebellion", "Intensity"],
-      "recommendedPaletteIds": ["concreteJungle", "industrialEdge", "rawElements"]
+      "id": "rawVegan",
+      "name": "Raw Vegan",
+      "description": "Bold, vibrant design aesthetic celebrating the natural beauty of unprocessed plant foods with high-contrast colors and fresh, juicy textures.",
+      "characteristics": ["Vivid produce photography", "Water droplets", "Fruit cross-sections", "Fresh textures", "Abundant compositions", "Natural color gradients"],
+      "useCases": ["Juice brands", "Raw food restaurants", "Fruit delivery", "Plant-based cookbooks", "Farmers' markets"],
+      "associatedEmotions": ["Vitality", "Freshness", "Nourishment", "Purity", "Vibrancy"],
+      "recommendedPaletteIds": ["juicyFruit", "leafyVibrancy", "tropicalHarvest"]
     },
     {
-      "id": "fantasyWorld",
-      "name": "Fantasy World",
-      "description": "Imaginative design aesthetic that creates otherworldly realms filled with magical elements, mythical creatures, and supernatural phenomena.",
-      "characteristics": ["Ornate details", "Magical symbols", "Mythological references", "Dreamlike qualities", "Impossible physics"],
-      "useCases": ["Gaming environments", "Children's media", "Book covers", "Theme parks", "Immersive experiences"],
-      "associatedEmotions": ["Wonder", "Escapism", "Curiosity", "Enchantment", "Adventure"],
-      "recommendedPaletteIds": ["enchantedForest", "mythicalRealm", "celestialMagic"]
+      "id": "sacredBotany",
+      "name": "Sacred Botany",
+      "description": "Mystical design aesthetic that explores the spiritual relationship between humans and plants, featuring sacred geometry, ritual herbs, and ceremonial plant use.",
+      "characteristics": ["Sacred geometry", "Mandala patterns", "Herbalist symbolism", "Moon phases", "Ritual elements", "Ancient botanical knowledge"],
+      "useCases": ["Herbal teas", "Plant medicine", "Botanical rituals", "Spiritual gardening", "Sacred plant education"],
+      "associatedEmotions": ["Reverence", "Intuition", "Ancestral wisdom", "Mystery", "Spiritual connection"],
+      "recommendedPaletteIds": ["moonlitHerbs", "sacredSage", "alchemicalGarden"]
     },
     {
-      "id": "memphis",
-      "name": "Memphis",
-      "description": "Postmodern design style originating in the 1980s featuring colorful geometric patterns, bold contrasts, and playful, sometimes chaotic arrangements.",
-      "characteristics": ["Bold patterns", "Primary colors", "Geometric shapes", "Asymmetrical layouts", "Playful compositions"],
-      "useCases": ["Youth marketing", "Pop culture brands", "Creative agencies", "Fashion accessories", "Entertainment events"],
-      "associatedEmotions": ["Excitement", "Playfulness", "Energy", "Creativity", "Irreverence"],
-      "recommendedPaletteIds": ["confettiExplosion", "boldGeometric", "funkyPatterns"]
+      "id": "permaculturePattern",
+      "name": "Permaculture Pattern",
+      "description": "Design system based on permaculture principles, featuring interlocking natural systems, keyhole gardens, food forests, and regenerative patterns.",
+      "characteristics": ["Ecosystem diagrams", "Companion planting charts", "Zoning circles", "Natural patterns", "Interconnected systems", "Functional relationships"],
+      "useCases": ["Regenerative farms", "Food forests", "Community gardens", "Sustainable education", "Ecological design"],
+      "associatedEmotions": ["Harmony", "Resilience", "Interdependence", "Ecological thinking", "Abundance"],
+      "recommendedPaletteIds": ["soilLayers", "foodForest", "pollinatorPalette"]
     },
     {
-      "id": "nordic",
-      "name": "Nordic",
-      "description": "Clean, functional design approach inspired by Scandinavian aesthetics, emphasizing simplicity, natural materials, and comfortable minimalism.",
-      "characteristics": ["Functional simplicity", "Natural materials", "Muted colors", "Light wood tones", "Cozy elements"],
-      "useCases": ["Home furnishings", "Lifestyle brands", "Interior design", "Sustainable products", "Wellness applications"],
-      "associatedEmotions": ["Serenity", "Comfort", "Balance", "Authenticity", "Contentment"],
-      "recommendedPaletteIds": ["frostyMorning", "scandi", "snowAndSage"]
+      "id": "scandiFern",
+      "name": "Scandi Fern",
+      "description": "Clean, plant-forward design approach merging Nordic simplicity with woodland botanicals, emphasizing mosses, ferns, and the forest understory.",
+      "characteristics": ["Muted greens", "Minimalist plant silhouettes", "Spore patterns", "Birch elements", "Lichen textures", "Cool undertones"],
+      "useCases": ["Plant-based Nordic cuisine", "Forest conservation", "Botanical skincare", "Nature retreats", "Woodland-inspired interiors"],
+      "associatedEmotions": ["Tranquility", "Woodland connection", "Simplicity", "Understated elegance", "Winter resilience"],
+      "recommendedPaletteIds": ["nordicForest", "winterMoss", "birchAndFern"]
     },
     {
-      "id": "artDeco",
-      "name": "Art Deco",
-      "description": "Glamorous design movement from the 1920s-30s characterized by rich colors, bold geometric patterns, and lavish ornamentation symbolizing wealth and sophistication.",
-      "characteristics": ["Geometric patterns", "Symmetrical designs", "Metallic accents", "Luxurious materials", "Stepped forms"],
-      "useCases": ["Luxury branding", "Event invitations", "Architectural elements", "Upscale hospitality", "Jewelry design"],
-      "associatedEmotions": ["Glamour", "Sophistication", "Optimism", "Extravagance", "Prestige"],
-      "recommendedPaletteIds": ["goldenEra", "sapphireAndGold", "luxeGeometric"]
+      "id": "herbGarden",
+      "name": "Herb Garden",
+      "description": "Refined design aesthetic centered around culinary and medicinal herbs, with detailed botanical illustrations, apothecary elements, and sensory textures.",
+      "characteristics": ["Botanical illustrations", "Apothecary labeling", "Herb bundles", "Mortar and pestle motifs", "Hand-written recipes", "Distillation imagery"],
+      "useCases": ["Herbal products", "Plant-based cookbooks", "Tea companies", "Garden design", "Botanical medicine"],
+      "associatedEmotions": ["Healing", "Nourishment", "Heritage knowledge", "Sensory pleasure", "Self-sufficiency"],
+      "recommendedPaletteIds": ["herbGarden", "culinaryGreens", "apothecaryShelf"]
     },
     {
-      "id": "vaporwave",
-      "name": "Vaporwave",
-      "description": "Internet-born aesthetic combining 1980s-90s nostalgia, glitch art, early computer graphics, and surreal juxtapositions of consumer culture and classical art.",
-      "characteristics": ["Glitch effects", "Retro computer graphics", "Classical statues", "Japanese characters", "Surreal compositions"],
-      "useCases": ["Internet culture", "Music visuals", "Ironic marketing", "Digital art", "Alternative fashion"],
-      "associatedEmotions": ["Nostalgia", "Disorientation", "Irony", "Melancholy", "Digital unease"],
-      "recommendedPaletteIds": ["digitalSunset", "glitchAesthetic", "cyberPastels"]
+      "id": "tropicalPlantLab",
+      "name": "Tropical Plant Lab",
+      "description": "A fusion aesthetic combining vibrant tropical plant imagery with scientific precision, featuring specimen collections, plant propagation, and botanical research.",
+      "characteristics": ["Specimen labels", "Growth measurements", "Propagation diagrams", "Tropical foliage", "Laboratory elements", "Detailed taxonomies"],
+      "useCases": ["Plant research", "Tropical conservation", "Botanical gardens", "Rare plant collectors", "Plant education"],
+      "associatedEmotions": ["Curiosity", "Scientific wonder", "Preservation", "Discovery", "Systematic thinking"],
+      "recommendedPaletteIds": ["tropicalSpecimen", "laboratoryGreen", "conservationGradient"]
     }
-  ]  
+  ]
 }
