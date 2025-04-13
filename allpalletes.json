@@ -25,11 +25,25 @@
         }
       ],
       "mood": "Revitalizing, nurturing, harmonious",
-      "bestApplications": ["Plant-based food brands", "Vegan restaurants", "Health coaching", "Garden educators"],
-      "complementaryTextures": ["Leaf veins", "Dewy surfaces", "Chopped herb scatters"],
+      "bestApplications": [
+        "Plant-based food brands",
+        "Vegan restaurants",
+        "Health coaching",
+        "Garden educators"
+      ],
+      "complementaryTextures": [
+        "Leaf veins",
+        "Dewy surfaces",
+        "Chopped herb scatters"
+      ],
       "associatedGenreIds": ["botanicalModern", "wildForager", "rawVegan"],
       "associatedEmotions": {
-        "feelings": ["Vitality", "Restoration", "Awakening", "Connection to earth"],
+        "feelings": [
+          "Vitality",
+          "Restoration",
+          "Awakening",
+          "Connection to earth"
+        ],
         "origin": "Derived from our ancestral relationship with edible green plants, which historically signaled safety, nourishment, and survival. The emotional response to these greens is rooted in our evolutionary biology, triggering positive associations with foraging success and nutritional security."
       }
     },
@@ -58,11 +72,29 @@
         }
       ],
       "mood": "Grounding, nurturing, substantial",
-      "bestApplications": ["Seasonal food brands", "Farmers markets", "Traditional cooking", "Cold weather campaigns"],
-      "complementaryTextures": ["Earth patterns", "Cross-section details", "Grainy textures"],
-      "associatedGenreIds": ["vintageFarmstead", "earthMinimalist", "wildForager"],
+      "bestApplications": [
+        "Seasonal food brands",
+        "Farmers markets",
+        "Traditional cooking",
+        "Cold weather campaigns"
+      ],
+      "complementaryTextures": [
+        "Earth patterns",
+        "Cross-section details",
+        "Grainy textures"
+      ],
+      "associatedGenreIds": [
+        "vintageFarmstead",
+        "earthMinimalist",
+        "wildForager"
+      ],
       "associatedEmotions": {
-        "feelings": ["Groundedness", "Sustenance", "Heritage", "Primordial connection"],
+        "feelings": [
+          "Groundedness",
+          "Sustenance",
+          "Heritage",
+          "Primordial connection"
+        ],
         "origin": "Originates from our deep historical relationship with tubers and root vegetables that sustained human populations through harsh seasons. The emotional response reflects agricultural turning points in human civilization and collective memories of harvest-time security."
       }
     },
@@ -91,8 +123,17 @@
         }
       ],
       "mood": "Vibrant, sensual, celebratory",
-      "bestApplications": ["Fruit-based products", "Natural desserts", "Summer campaigns", "Juice bars"],
-      "complementaryTextures": ["Seed patterns", "Juicy droplets", "Smooth gloss"],
+      "bestApplications": [
+        "Fruit-based products",
+        "Natural desserts",
+        "Summer campaigns",
+        "Juice bars"
+      ],
+      "complementaryTextures": [
+        "Seed patterns",
+        "Juicy droplets",
+        "Smooth gloss"
+      ],
       "associatedGenreIds": ["rawVegan", "wildForager", "botanicalModern"],
       "associatedEmotions": {
         "feelings": ["Pleasure", "Vitality", "Nurturance", "Seasonal joy"],
@@ -124,9 +165,22 @@
         }
       ],
       "mood": "Warm, traditional, wholesome",
-      "bestApplications": ["Bakeries", "Traditional food brands", "Whole food products", "Harvest festivals"],
-      "complementaryTextures": ["Grain patterns", "Woven textures", "Seed clusters"],
-      "associatedGenreIds": ["vintageFarmstead", "earthMinimalist", "permaculturePattern"],
+      "bestApplications": [
+        "Bakeries",
+        "Traditional food brands",
+        "Whole food products",
+        "Harvest festivals"
+      ],
+      "complementaryTextures": [
+        "Grain patterns",
+        "Woven textures",
+        "Seed clusters"
+      ],
+      "associatedGenreIds": [
+        "vintageFarmstead",
+        "earthMinimalist",
+        "permaculturePattern"
+      ],
       "associatedEmotions": {
         "feelings": ["Security", "Heritage", "Fullness", "Cultural continuity"],
         "origin": "Rooted in humanity's 10,000+ year relationship with cereal grains that enabled civilization itself. These colors evoke collective ancestral memories of harvest cycles, agricultural bounty, and the emotional security of stored food."
@@ -157,11 +211,29 @@
         }
       ],
       "mood": "Substantial, earthy, nourishing",
-      "bestApplications": ["Plant protein brands", "Traditional cuisines", "Dietary transitions", "Nutrition education"],
-      "complementaryTextures": ["Smooth matte surfaces", "Varied bean patterns", "Subtle speckles"],
-      "associatedGenreIds": ["vintageFarmstead", "earthMinimalist", "herbGarden"],
+      "bestApplications": [
+        "Plant protein brands",
+        "Traditional cuisines",
+        "Dietary transitions",
+        "Nutrition education"
+      ],
+      "complementaryTextures": [
+        "Smooth matte surfaces",
+        "Varied bean patterns",
+        "Subtle speckles"
+      ],
+      "associatedGenreIds": [
+        "vintageFarmstead",
+        "earthMinimalist",
+        "herbGarden"
+      ],
       "associatedEmotions": {
-        "feelings": ["Satisfaction", "Sufficiency", "Cultural connection", "Stability"],
+        "feelings": [
+          "Satisfaction",
+          "Sufficiency",
+          "Cultural connection",
+          "Stability"
+        ],
         "origin": "Derives from our evolutionary adaptation to cooked legumes as a protein source, allowing human civilization to thrive with less reliance on hunting. These colors tap into collective memories of communal cooking traditions and the security of stored food."
       }
     },
@@ -190,11 +262,25 @@
         }
       ],
       "mood": "Fresh, aromatic, sensorial",
-      "bestApplications": ["Culinary products", "Recipe content", "Plant-based restaurants", "Kitchen design"],
-      "complementaryTextures": ["Herb sprig patterns", "Line art botanicals", "Textured leaf prints"],
+      "bestApplications": [
+        "Culinary products",
+        "Recipe content",
+        "Plant-based restaurants",
+        "Kitchen design"
+      ],
+      "complementaryTextures": [
+        "Herb sprig patterns",
+        "Line art botanicals",
+        "Textured leaf prints"
+      ],
       "associatedGenreIds": ["herbGarden", "botanicalModern", "rawVegan"],
       "associatedEmotions": {
-        "feelings": ["Sensory pleasure", "Domestic heritage", "Healing confidence", "Creative expression"],
+        "feelings": [
+          "Sensory pleasure",
+          "Domestic heritage",
+          "Healing confidence",
+          "Creative expression"
+        ],
         "origin": "Stems from our co-evolutionary relationship with aromatic herbs, which humans have cultivated for both medicine and flavor enhancement for millennia. The emotional associations reflect both the herbal healing traditions and the cultural memory of culinary artistry."
       }
     },
@@ -223,11 +309,29 @@
         }
       ],
       "mood": "Nutritionally rich, concentrated, essential",
-      "bestApplications": ["Holistic nutrition", "Superfood products", "Plant-based protein", "Natural supplementation"],
-      "complementaryTextures": ["Seed patterns", "Tiny repeating elements", "Textural contrasts"],
-      "associatedGenreIds": ["wildForager", "permaculturePattern", "earthMinimalist"],
+      "bestApplications": [
+        "Holistic nutrition",
+        "Superfood products",
+        "Plant-based protein",
+        "Natural supplementation"
+      ],
+      "complementaryTextures": [
+        "Seed patterns",
+        "Tiny repeating elements",
+        "Textural contrasts"
+      ],
+      "associatedGenreIds": [
+        "wildForager",
+        "permaculturePattern",
+        "earthMinimalist"
+      ],
       "associatedEmotions": {
-        "feelings": ["Potential", "Concentration", "Life cycles", "Natural intelligence"],
+        "feelings": [
+          "Potential",
+          "Concentration",
+          "Life cycles",
+          "Natural intelligence"
+        ],
         "origin": "Derives from human relationship to seeds both as food and as symbols of regeneration and potential. The emotional response connects to our innate understanding of seeds as both nourishment and repositories of future abundance."
       }
     },
@@ -256,11 +360,25 @@
         }
       ],
       "mood": "Earthy, mysterious, transformative",
-      "bestApplications": ["Fungi products", "Forest education", "Ecosystem services", "Natural remedies"],
-      "complementaryTextures": ["Gill patterns", "Mycelium networks", "Spore prints"],
+      "bestApplications": [
+        "Fungi products",
+        "Forest education",
+        "Ecosystem services",
+        "Natural remedies"
+      ],
+      "complementaryTextures": [
+        "Gill patterns",
+        "Mycelium networks",
+        "Spore prints"
+      ],
       "associatedGenreIds": ["wildForager", "botanicalModern", "rawVegan"],
       "associatedEmotions": {
-        "feelings": ["Mystery", "Transformation", "Ecological connection", "Hidden knowledge"],
+        "feelings": [
+          "Mystery",
+          "Transformation",
+          "Ecological connection",
+          "Hidden knowledge"
+        ],
         "origin": "Arises from humanity's complex historical relationship with fungi as food, medicine, and decomposers. The emotional response reflects both ancestral wariness of poisonous specimens and cultural appreciation for edible varieties that connect us to forest ecosystems."
       }
     },
@@ -289,11 +407,25 @@
         }
       ],
       "mood": "Hopeful, delicate, cyclical",
-      "bestApplications": ["Spring campaigns", "Organic orchards", "Floral foods", "Seasonal celebrations"],
-      "complementaryTextures": ["Petal patterns", "Watercolor washes", "Delicate linework"],
+      "bestApplications": [
+        "Spring campaigns",
+        "Organic orchards",
+        "Floral foods",
+        "Seasonal celebrations"
+      ],
+      "complementaryTextures": [
+        "Petal patterns",
+        "Watercolor washes",
+        "Delicate linework"
+      ],
       "associatedGenreIds": ["botanicalModern", "wildForager", "herbGarden"],
       "associatedEmotions": {
-        "feelings": ["Anticipation", "Renewal", "Pollinator kinship", "Cyclical awareness"],
+        "feelings": [
+          "Anticipation",
+          "Renewal",
+          "Pollinator kinship",
+          "Cyclical awareness"
+        ],
         "origin": "Based in our agricultural relationship with fruit trees and their seasonal cycles. The emotional response connects to cultural celebrations of spring blossoming and the promise of future abundance through pollination."
       }
     },
@@ -322,11 +454,25 @@
         }
       ],
       "mood": "Oceanic, mineral-rich, mysterious",
-      "bestApplications": ["Sea vegetable products", "Coastal cuisine", "Mineral supplements", "Ocean conservation"],
-      "complementaryTextures": ["Wave patterns", "Dried seaweed textures", "Salt crystals"],
+      "bestApplications": [
+        "Sea vegetable products",
+        "Coastal cuisine",
+        "Mineral supplements",
+        "Ocean conservation"
+      ],
+      "complementaryTextures": [
+        "Wave patterns",
+        "Dried seaweed textures",
+        "Salt crystals"
+      ],
       "associatedGenreIds": ["wildForager", "rawVegan", "botanicalModern"],
       "associatedEmotions": {
-        "feelings": ["Mineral vitality", "Oceanic connection", "Ancestral coastal memory", "Elemental harmony"],
+        "feelings": [
+          "Mineral vitality",
+          "Oceanic connection",
+          "Ancestral coastal memory",
+          "Elemental harmony"
+        ],
         "origin": "Derived from coastal cultures' relationship with edible seaweeds as vital sources of minerals and nutrition. The emotional response connects to both primal oceanic origins and the importance of sea vegetables in traditional coastal diets worldwide."
       }
     },
@@ -355,11 +501,29 @@
         }
       ],
       "mood": "Vital, fresh, transformative",
-      "bestApplications": ["Living foods", "Detox programs", "Sprouting equipment", "Nutritional education"],
-      "complementaryTextures": ["Tiny leaf patterns", "Water droplets", "Geometric growth"],
-      "associatedGenreIds": ["rawVegan", "botanicalModern", "permaculturePattern"],
+      "bestApplications": [
+        "Living foods",
+        "Detox programs",
+        "Sprouting equipment",
+        "Nutritional education"
+      ],
+      "complementaryTextures": [
+        "Tiny leaf patterns",
+        "Water droplets",
+        "Geometric growth"
+      ],
+      "associatedGenreIds": [
+        "rawVegan",
+        "botanicalModern",
+        "permaculturePattern"
+      ],
       "associatedEmotions": {
-        "feelings": ["Renewal", "Life force", "Purification", "Nutritional intelligence"],
+        "feelings": [
+          "Renewal",
+          "Life force",
+          "Purification",
+          "Nutritional intelligence"
+        ],
         "origin": "Based in our observation of nature's germination processes and human cultivation of sprouts for concentrated nutrition. The emotional response connects to our innate recognition of the power contained in sprouting seeds as they transform into living plants."
       }
     },
@@ -388,11 +552,29 @@
         }
       ],
       "mood": "Transformative, complex, traditional",
-      "bestApplications": ["Fermented foods", "Traditional preparations", "Gut health", "Culinary education"],
-      "complementaryTextures": ["Bubbles", "Mycelial patterns", "Salt crystals"],
-      "associatedGenreIds": ["vintageFarmstead", "herbGarden", "earthMinimalist"],
+      "bestApplications": [
+        "Fermented foods",
+        "Traditional preparations",
+        "Gut health",
+        "Culinary education"
+      ],
+      "complementaryTextures": [
+        "Bubbles",
+        "Mycelial patterns",
+        "Salt crystals"
+      ],
+      "associatedGenreIds": [
+        "vintageFarmstead",
+        "herbGarden",
+        "earthMinimalist"
+      ],
       "associatedEmotions": {
-        "feelings": ["Patience", "Microbial kinship", "Digestive wisdom", "Cultural preservation"],
+        "feelings": [
+          "Patience",
+          "Microbial kinship",
+          "Digestive wisdom",
+          "Cultural preservation"
+        ],
         "origin": "Emerges from humanity's ancient relationship with beneficial microbes that transform foods. The emotional response connects to generational wisdom about food preservation and the almost magical transformation of simple ingredients into complex, living foods."
       }
     },
@@ -421,11 +603,29 @@
         }
       ],
       "mood": "Wild, knowledgeable, connected",
-      "bestApplications": ["Foraging education", "Herbalism", "Wilderness skills", "Alternative food systems"],
-      "complementaryTextures": ["Varied plant patterns", "Natural irregularities", "Wilderness elements"],
-      "associatedGenreIds": ["wildForager", "herbGarden", "permaculturePattern"],
+      "bestApplications": [
+        "Foraging education",
+        "Herbalism",
+        "Wilderness skills",
+        "Alternative food systems"
+      ],
+      "complementaryTextures": [
+        "Varied plant patterns",
+        "Natural irregularities",
+        "Wilderness elements"
+      ],
+      "associatedGenreIds": [
+        "wildForager",
+        "herbGarden",
+        "permaculturePattern"
+      ],
       "associatedEmotions": {
-        "feelings": ["Freedom", "Self-reliance", "Ancestral connection", "Ecological literacy"],
+        "feelings": [
+          "Freedom",
+          "Self-reliance",
+          "Ancestral connection",
+          "Ecological literacy"
+        ],
         "origin": "Rooted in humanity's original relationship with plants as foragers before agriculture. The emotional response connects to both ancient survival knowledge and contemporary desire for autonomous food relationships outside industrial systems."
       }
     },
@@ -454,11 +654,25 @@
         }
       ],
       "mood": "Reverent, spiritual, meditative",
-      "bestApplications": ["Plant medicine", "Spiritual traditions", "Indigenous collaboration", "Mindfulness practices"],
-      "complementaryTextures": ["Smoke patterns", "Natural imperfections", "Handcrafted elements"],
+      "bestApplications": [
+        "Plant medicine",
+        "Spiritual traditions",
+        "Indigenous collaboration",
+        "Mindfulness practices"
+      ],
+      "complementaryTextures": [
+        "Smoke patterns",
+        "Natural imperfections",
+        "Handcrafted elements"
+      ],
       "associatedGenreIds": ["sacredBotany", "herbGarden", "wildForager"],
       "associatedEmotions": {
-        "feelings": ["Reverence", "Ancestral connection", "Spiritual awareness", "Ceremonial mindset"],
+        "feelings": [
+          "Reverence",
+          "Ancestral connection",
+          "Spiritual awareness",
+          "Ceremonial mindset"
+        ],
         "origin": "Emerges from humanity's use of certain plants for spiritual and ceremonial purposes across cultures. The emotional response connects to our recognition of plants that alter consciousness or create ceremonial spaces through smoke, taste, or scent."
       }
     },
@@ -487,11 +701,25 @@
         }
       ],
       "mood": "Vibrant, exotic, abundant",
-      "bestApplications": ["Tropical foods", "Fruit businesses", "Vacation themes", "Exotic flavors"],
-      "complementaryTextures": ["Fruit flesh patterns", "Leaf textures", "Natural juiciness"],
+      "bestApplications": [
+        "Tropical foods",
+        "Fruit businesses",
+        "Vacation themes",
+        "Exotic flavors"
+      ],
+      "complementaryTextures": [
+        "Fruit flesh patterns",
+        "Leaf textures",
+        "Natural juiciness"
+      ],
       "associatedGenreIds": ["rawVegan", "tropicalPlantLab", "botanicalModern"],
       "associatedEmotions": {
-        "feelings": ["Abundance", "Sensory delight", "Tropical nostalgia", "Solar vitality"],
+        "feelings": [
+          "Abundance",
+          "Sensory delight",
+          "Tropical nostalgia",
+          "Solar vitality"
+        ],
         "origin": "Stemming from humanity's relationship with tropical fruits as rare delicacies or cultural staples depending on geography. The emotional response connects to both the sensory intensity of these fruits and their association with abundance and exotic locations."
       }
     },
@@ -520,11 +748,25 @@
         }
       ],
       "mood": "Healing, knowledgeable, nurturing",
-      "bestApplications": ["Herbal products", "Natural remedies", "Health education", "Apothecary designs"],
-      "complementaryTextures": ["Dried herb textures", "Botanical illustrations", "Mortar and pestle marks"],
+      "bestApplications": [
+        "Herbal products",
+        "Natural remedies",
+        "Health education",
+        "Apothecary designs"
+      ],
+      "complementaryTextures": [
+        "Dried herb textures",
+        "Botanical illustrations",
+        "Mortar and pestle marks"
+      ],
       "associatedGenreIds": ["herbGarden", "sacredBotany", "wildForager"],
       "associatedEmotions": {
-        "feelings": ["Healing confidence", "Traditional wisdom", "Self-reliance", "Care"],
+        "feelings": [
+          "Healing confidence",
+          "Traditional wisdom",
+          "Self-reliance",
+          "Care"
+        ],
         "origin": "Rooted in humanity's ancient knowledge of plants as medicine before pharmaceutical isolation of compounds. The emotional response connects to ancestral healing traditions and the empowerment of traditional plant knowledge for self and community care."
       }
     },
@@ -553,11 +795,25 @@
         }
       ],
       "mood": "Potent, protective, substantial",
-      "bestApplications": ["Nutrition programs", "Cancer prevention", "Detox protocols", "Vegetable-centered cuisine"],
-      "complementaryTextures": ["Cabbage leaf patterns", "Fractal florets", "Cross-sections"],
+      "bestApplications": [
+        "Nutrition programs",
+        "Cancer prevention",
+        "Detox protocols",
+        "Vegetable-centered cuisine"
+      ],
+      "complementaryTextures": [
+        "Cabbage leaf patterns",
+        "Fractal florets",
+        "Cross-sections"
+      ],
       "associatedGenreIds": ["rawVegan", "vintageFarmstead", "botanicalModern"],
       "associatedEmotions": {
-        "feelings": ["Protection", "Fortitude", "Cellular renewal", "Resilient health"],
+        "feelings": [
+          "Protection",
+          "Fortitude",
+          "Cellular renewal",
+          "Resilient health"
+        ],
         "origin": "Based in our modern scientific understanding of these vegetables' remarkable nutritional profiles combined with traditional knowledge of their importance in human diets. The emotional response connects to contemporary awareness of their role in disease prevention."
       }
     },
@@ -586,11 +842,29 @@
         }
       ],
       "mood": "Traditional, diverse, preservationist",
-      "bestApplications": ["Seed companies", "Heritage foods", "Gardening education", "Biodiversity initiatives"],
-      "complementaryTextures": ["Seed packet illustrations", "Hand-drawn varieties", "Garden planning graphics"],
-      "associatedGenreIds": ["vintageFarmstead", "permaculturePattern", "herbGarden"],
+      "bestApplications": [
+        "Seed companies",
+        "Heritage foods",
+        "Gardening education",
+        "Biodiversity initiatives"
+      ],
+      "complementaryTextures": [
+        "Seed packet illustrations",
+        "Hand-drawn varieties",
+        "Garden planning graphics"
+      ],
+      "associatedGenreIds": [
+        "vintageFarmstead",
+        "permaculturePattern",
+        "herbGarden"
+      ],
       "associatedEmotions": {
-        "feelings": ["Heritage pride", "Biodiversity appreciation", "Cultural preservation", "Taste memory"],
+        "feelings": [
+          "Heritage pride",
+          "Biodiversity appreciation",
+          "Cultural preservation",
+          "Taste memory"
+        ],
         "origin": "Stemming from the agricultural heritage of seed saving and the emotional response to vegetable varieties developed through generations of selection. The emotions connect to both nostalgia for lost agricultural diversity and commitment to preserving genetic and culinary heritage."
       }
     },
@@ -619,11 +893,29 @@
         }
       ],
       "mood": "Grounding, regenerative, foundational",
-      "bestApplications": ["Regenerative agriculture", "Composting services", "Garden education", "Environmental restoration"],
-      "complementaryTextures": ["Soil aggregates", "Root patterns", "Worm castings"],
-      "associatedGenreIds": ["permaculturePattern", "earthMinimalist", "wildForager"],
+      "bestApplications": [
+        "Regenerative agriculture",
+        "Composting services",
+        "Garden education",
+        "Environmental restoration"
+      ],
+      "complementaryTextures": [
+        "Soil aggregates",
+        "Root patterns",
+        "Worm castings"
+      ],
+      "associatedGenreIds": [
+        "permaculturePattern",
+        "earthMinimalist",
+        "wildForager"
+      ],
       "associatedEmotions": {
-        "feelings": ["Groundedness", "Cyclical thinking", "Regenerative hope", "Microbial kinship"],
+        "feelings": [
+          "Groundedness",
+          "Cyclical thinking",
+          "Regenerative hope",
+          "Microbial kinship"
+        ],
         "origin": "Founded in our growing scientific understanding of soil as a living ecosystem rather than inert material. The emotional response connects to both ancient farmer wisdom about soil care and modern ecological awareness of soil's role in planetary health and climate stability."
       }
     },
@@ -652,11 +944,29 @@
         }
       ],
       "mood": "Natural, diversified, lush",
-      "bestApplications": ["Plant nurseries", "Garden design", "Botanical education", "Houseplant brands"],
-      "complementaryTextures": ["Leaf vein patterns", "Varied leaf shapes", "Plant structure diagrams"],
-      "associatedGenreIds": ["botanicalModern", "scandiFern", "permaculturePattern"],
+      "bestApplications": [
+        "Plant nurseries",
+        "Garden design",
+        "Botanical education",
+        "Houseplant brands"
+      ],
+      "complementaryTextures": [
+        "Leaf vein patterns",
+        "Varied leaf shapes",
+        "Plant structure diagrams"
+      ],
+      "associatedGenreIds": [
+        "botanicalModern",
+        "scandiFern",
+        "permaculturePattern"
+      ],
       "associatedEmotions": {
-        "feelings": ["Oxygenation", "Verdant shelter", "Photosynthetic connection", "Life force"],
+        "feelings": [
+          "Oxygenation",
+          "Verdant shelter",
+          "Photosynthetic connection",
+          "Life force"
+        ],
         "origin": "Derived from our evolutionary relationship with green plants as oxygen providers, shelter, and visual indicators of habitable environments. The emotional response connects to primordial recognition of plant life as essential to human survival."
       }
     },
@@ -685,11 +995,25 @@
         }
       ],
       "mood": "Satisfying, rich, substantial",
-      "bestApplications": ["Plant-based cheese", "Vegan protein", "Dairy alternatives", "High-energy foods"],
-      "complementaryTextures": ["Nut cross-sections", "Shell patterns", "Roasted surfaces"],
+      "bestApplications": [
+        "Plant-based cheese",
+        "Vegan protein",
+        "Dairy alternatives",
+        "High-energy foods"
+      ],
+      "complementaryTextures": [
+        "Nut cross-sections",
+        "Shell patterns",
+        "Roasted surfaces"
+      ],
       "associatedGenreIds": ["rawVegan", "earthMinimalist", "vintageFarmstead"],
       "associatedEmotions": {
-        "feelings": ["Satiation", "Energetic fullness", "Nutritional security", "Rich sufficiency"],
+        "feelings": [
+          "Satiation",
+          "Energetic fullness",
+          "Nutritional security",
+          "Rich sufficiency"
+        ],
         "origin": "Based in our evolutionary relationship with energy-dense tree nuts as survival foods during lean times. The emotional response connects to both ancestral food security through foraging and modern appreciation for plant-based proteins and fats."
       }
     },
@@ -718,11 +1042,29 @@
         }
       ],
       "mood": "Refreshing, essential, purifying",
-      "bestApplications": ["Hydration products", "Spring water", "Plant irrigation", "Cleansing services"],
-      "complementaryTextures": ["Ripple patterns", "Droplet forms", "Fluid movements"],
-      "associatedGenreIds": ["botanicalModern", "earthMinimalist", "permaculturePattern"],
+      "bestApplications": [
+        "Hydration products",
+        "Spring water",
+        "Plant irrigation",
+        "Cleansing services"
+      ],
+      "complementaryTextures": [
+        "Ripple patterns",
+        "Droplet forms",
+        "Fluid movements"
+      ],
+      "associatedGenreIds": [
+        "botanicalModern",
+        "earthMinimalist",
+        "permaculturePattern"
+      ],
       "associatedEmotions": {
-        "feelings": ["Thirst satisfaction", "Vital necessity", "Purification", "Life's foundation"],
+        "feelings": [
+          "Thirst satisfaction",
+          "Vital necessity",
+          "Purification",
+          "Life's foundation"
+        ],
         "origin": "Rooted in our biological dependence on clean water for survival and our evolutionary attraction to clear water sources. The emotional response connects to both primal thirst satisfaction and recognition of water as the medium of life."
       }
     },
@@ -751,11 +1093,29 @@
         }
       ],
       "mood": "Cyclical, regenerative, transformative",
-      "bestApplications": ["Composting services", "Zero waste initiatives", "Garden education", "Circular systems"],
-      "complementaryTextures": ["Layered materials", "Decomposing leaves", "Mycelia threads"],
-      "associatedGenreIds": ["permaculturePattern", "earthMinimalist", "wildForager"],
+      "bestApplications": [
+        "Composting services",
+        "Zero waste initiatives",
+        "Garden education",
+        "Circular systems"
+      ],
+      "complementaryTextures": [
+        "Layered materials",
+        "Decomposing leaves",
+        "Mycelia threads"
+      ],
+      "associatedGenreIds": [
+        "permaculturePattern",
+        "earthMinimalist",
+        "wildForager"
+      ],
       "associatedEmotions": {
-        "feelings": ["Cyclical completion", "Waste redemption", "Microbial partnership", "Eco-consciousness"],
+        "feelings": [
+          "Cyclical completion",
+          "Waste redemption",
+          "Microbial partnership",
+          "Eco-consciousness"
+        ],
         "origin": "Founded in our observation of nature's decomposition cycles and traditional agricultural knowledge of soil building. The emotional response connects to modern ecological awareness of closing loops and finding value in what was discarded."
       }
     },
@@ -784,11 +1144,29 @@
         }
       ],
       "mood": "Transformative, hopeful, emergent",
-      "bestApplications": ["Seed companies", "Educational initiatives", "New businesses", "Growth programs"],
-      "complementaryTextures": ["Seed coats", "Root structures", "Cell patterns"],
-      "associatedGenreIds": ["permaculturePattern", "botanicalModern", "rawVegan"],
+      "bestApplications": [
+        "Seed companies",
+        "Educational initiatives",
+        "New businesses",
+        "Growth programs"
+      ],
+      "complementaryTextures": [
+        "Seed coats",
+        "Root structures",
+        "Cell patterns"
+      ],
+      "associatedGenreIds": [
+        "permaculturePattern",
+        "botanicalModern",
+        "rawVegan"
+      ],
       "associatedEmotions": {
-        "feelings": ["Emergence", "Potential actualized", "Patient growth", "Natural timing"],
+        "feelings": [
+          "Emergence",
+          "Potential actualized",
+          "Patient growth",
+          "Natural timing"
+        ],
         "origin": "Based in our observation of seeds breaking dormancy and beginning growth, one of nature's most profound transformations. The emotional response connects to universal themes of potential, patience, and the courage of new beginnings."
       }
     },
@@ -817,11 +1195,29 @@
         }
       ],
       "mood": "Vibrant, diverse, ecological",
-      "bestApplications": ["Pollinator initiatives", "Wildflower products", "Meadow restoration", "Spring campaigns"],
-      "complementaryTextures": ["Petal forms", "Meadow patterns", "Pollen details"],
-      "associatedGenreIds": ["wildForager", "botanicalModern", "permaculturePattern"],
+      "bestApplications": [
+        "Pollinator initiatives",
+        "Wildflower products",
+        "Meadow restoration",
+        "Spring campaigns"
+      ],
+      "complementaryTextures": [
+        "Petal forms",
+        "Meadow patterns",
+        "Pollen details"
+      ],
+      "associatedGenreIds": [
+        "wildForager",
+        "botanicalModern",
+        "permaculturePattern"
+      ],
       "associatedEmotions": {
-        "feelings": ["Biodiversity joy", "Pollinator kinship", "Visual delight", "Ecological health"],
+        "feelings": [
+          "Biodiversity joy",
+          "Pollinator kinship",
+          "Visual delight",
+          "Ecological health"
+        ],
         "origin": "Rooted in our co-evolutionary relationship with flowering plants and our innate attraction to diverse flower displays. The emotional response connects to both aesthetic pleasure and recognition of healthy ecosystems."
       }
     },
@@ -850,13 +1246,28 @@
         }
       ],
       "mood": "Smooth, transitional, comforting",
-      "bestApplications": ["Dairy alternatives", "Plant milk brands", "Coffee shops", "Transition guides"],
-      "complementaryTextures": ["Liquid swirls", "Frothy surfaces", "Smooth pours"],
+      "bestApplications": [
+        "Dairy alternatives",
+        "Plant milk brands",
+        "Coffee shops",
+        "Transition guides"
+      ],
+      "complementaryTextures": [
+        "Liquid swirls",
+        "Frothy surfaces",
+        "Smooth pours"
+      ],
       "associatedGenreIds": ["rawVegan", "botanicalModern", "earthMinimalist"],
       "associatedEmotions": {
-        "feelings": ["Familiarity", "Comfort transition", "Ethical satisfaction", "Digestive ease"],
+        "feelings": [
+          "Familiarity",
+          "Comfort transition",
+          "Ethical satisfaction",
+          "Digestive ease"
+        ],
         "origin": "Emerging from contemporary innovation in plant-based alternatives to animal products. The emotional response connects to both the comfort of familiar experiences and the satisfaction of ethical food choices aligned with values."
       }
+    },
     {
       "id": "farmSanctuary",
       "name": "Farm Sanctuary",
@@ -882,11 +1293,29 @@
         }
       ],
       "mood": "Peaceful, compassionate, sheltering",
-      "bestApplications": ["Animal rights", "Vegan transition", "Compassionate living", "Ethical education"],
-      "complementaryTextures": ["Soft hay patterns", "Worn wood", "Gentle landscapes"],
-      "associatedGenreIds": ["vintageFarmstead", "earthMinimalist", "permaculturePattern"],
+      "bestApplications": [
+        "Animal rights",
+        "Vegan transition",
+        "Compassionate living",
+        "Ethical education"
+      ],
+      "complementaryTextures": [
+        "Soft hay patterns",
+        "Worn wood",
+        "Gentle landscapes"
+      ],
+      "associatedGenreIds": [
+        "vintageFarmstead",
+        "earthMinimalist",
+        "permaculturePattern"
+      ],
       "associatedEmotions": {
-        "feelings": ["Compassion", "Peaceful coexistence", "Moral alignment", "Restorative justice"],
+        "feelings": [
+          "Compassion",
+          "Peaceful coexistence",
+          "Moral alignment",
+          "Restorative justice"
+        ],
         "origin": "Emerging from modern ethical movements recognizing farm animals as individuals deserving care rather than commodities. The emotional response connects to the relief of moral consistency and witnessing healing and dignity restored to previously exploited beings."
       }
     },
@@ -915,11 +1344,29 @@
         }
       ],
       "mood": "Complex, layered, cyclical",
-      "bestApplications": ["Forest conservation", "Ecosystem education", "Natural history", "Woodland products"],
-      "complementaryTextures": ["Leaf litter patterns", "Moss details", "Mycological networks"],
-      "associatedGenreIds": ["wildForager", "scandiFern", "permaculturePattern"],
+      "bestApplications": [
+        "Forest conservation",
+        "Ecosystem education",
+        "Natural history",
+        "Woodland products"
+      ],
+      "complementaryTextures": [
+        "Leaf litter patterns",
+        "Moss details",
+        "Mycological networks"
+      ],
+      "associatedGenreIds": [
+        "wildForager",
+        "scandiFern",
+        "permaculturePattern"
+      ],
       "associatedEmotions": {
-        "feelings": ["Circular thinking", "Ecological appreciation", "Quiet regeneration", "Interdependence"],
+        "feelings": [
+          "Circular thinking",
+          "Ecological appreciation",
+          "Quiet regeneration",
+          "Interdependence"
+        ],
         "origin": "Founded in our observation of forest ecosystems and their self-sustaining cycles of growth, death, and rebirth. The emotional response connects to recognizing nature's inherent wisdom in systems that waste nothing."
       }
     },
@@ -948,11 +1395,29 @@
         }
       ],
       "mood": "Enduring, wise, patient",
-      "bestApplications": ["Permaculture design", "Sustainable farming", "Long-term planning", "Land restoration"],
-      "complementaryTextures": ["Root structures", "Bark patterns", "Perennial growth forms"],
-      "associatedGenreIds": ["permaculturePattern", "vintageFarmstead", "earthMinimalist"],
+      "bestApplications": [
+        "Permaculture design",
+        "Sustainable farming",
+        "Long-term planning",
+        "Land restoration"
+      ],
+      "complementaryTextures": [
+        "Root structures",
+        "Bark patterns",
+        "Perennial growth forms"
+      ],
+      "associatedGenreIds": [
+        "permaculturePattern",
+        "vintageFarmstead",
+        "earthMinimalist"
+      ],
       "associatedEmotions": {
-        "feelings": ["Patience", "Generational thinking", "Climate hope", "Rooted stability"],
+        "feelings": [
+          "Patience",
+          "Generational thinking",
+          "Climate hope",
+          "Rooted stability"
+        ],
         "origin": "Derived from both traditional agricultural knowledge and modern ecological understanding of perennial food systems. The emotional response connects to the satisfaction of long-term thinking and creating lasting agricultural abundance."
       }
     },
@@ -981,11 +1446,29 @@
         }
       ],
       "mood": "Cyclical, timely, abundant",
-      "bestApplications": ["CSA programs", "Seasonal eating", "Local food systems", "Harvest celebrations"],
-      "complementaryTextures": ["Garden planning", "Harvest patterns", "Seasonal infographics"],
-      "associatedGenreIds": ["vintageFarmstead", "permaculturePattern", "rawVegan"],
+      "bestApplications": [
+        "CSA programs",
+        "Seasonal eating",
+        "Local food systems",
+        "Harvest celebrations"
+      ],
+      "complementaryTextures": [
+        "Garden planning",
+        "Harvest patterns",
+        "Seasonal infographics"
+      ],
+      "associatedGenreIds": [
+        "vintageFarmstead",
+        "permaculturePattern",
+        "rawVegan"
+      ],
       "associatedEmotions": {
-        "feelings": ["Temporal awareness", "Natural harmony", "Anticipation", "Connected eating"],
+        "feelings": [
+          "Temporal awareness",
+          "Natural harmony",
+          "Anticipation",
+          "Connected eating"
+        ],
         "origin": "Rooted in traditional agricultural calendars and human adaptation to seasonal food availability. The emotional response connects to aligning human rhythms with natural cycles and the special delight of first harvests."
       }
     },
@@ -1014,11 +1497,29 @@
         }
       ],
       "mood": "Practical, nurturing, accessible",
-      "bestApplications": ["Home gardening", "Cooking resources", "Seed companies", "Small-space growing"],
-      "complementaryTextures": ["Woven structures", "Garden row patterns", "Hand tools"],
-      "associatedGenreIds": ["herbGarden", "vintageFarmstead", "earthMinimalist"],
+      "bestApplications": [
+        "Home gardening",
+        "Cooking resources",
+        "Seed companies",
+        "Small-space growing"
+      ],
+      "complementaryTextures": [
+        "Woven structures",
+        "Garden row patterns",
+        "Hand tools"
+      ],
+      "associatedGenreIds": [
+        "herbGarden",
+        "vintageFarmstead",
+        "earthMinimalist"
+      ],
       "associatedEmotions": {
-        "feelings": ["Self-reliance", "Daily satisfaction", "Accessible abundance", "Connected cooking"],
+        "feelings": [
+          "Self-reliance",
+          "Daily satisfaction",
+          "Accessible abundance",
+          "Connected cooking"
+        ],
         "origin": "Based in the historical tradition of kitchen gardens that connected cooking directly to growing. The emotional response connects to the satisfaction of self-provision and the sensory pleasure of cooking with just-harvested ingredients."
       }
     },
@@ -1047,11 +1548,25 @@
         }
       ],
       "mood": "Healing, traditional, knowledgeable",
-      "bestApplications": ["Herbal medicine", "Natural remedies", "Wellness education", "Healing centers"],
-      "complementaryTextures": ["Herbal preparations", "Botanical drawings", "Apothecary elements"],
+      "bestApplications": [
+        "Herbal medicine",
+        "Natural remedies",
+        "Wellness education",
+        "Healing centers"
+      ],
+      "complementaryTextures": [
+        "Herbal preparations",
+        "Botanical drawings",
+        "Apothecary elements"
+      ],
       "associatedGenreIds": ["herbGarden", "sacredBotany", "wildForager"],
       "associatedEmotions": {
-        "feelings": ["Healing wisdom", "Body knowledge", "Ancestral connection", "Self-determination"],
+        "feelings": [
+          "Healing wisdom",
+          "Body knowledge",
+          "Ancestral connection",
+          "Self-determination"
+        ],
         "origin": "Derived from humanity's oldest healing traditions using plants as medicine. The emotional response connects to reclaiming traditional knowledge and self-determination in health practices outside industrial medicine."
       }
     }
